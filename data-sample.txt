@@ -5,7 +5,7 @@ Winery Info:
 Total winery links: 1128
 {
     name: str
-    region: str
+    region: str * 
     website: str
     contact: email
     established: year
@@ -15,15 +15,15 @@ Wine Info:
 Total wine links: 6027
 {
     name: str
-    year: int
-    region: str
-    type: str
-    price: USD
+    year: int * 
+    region: str *
+    type: str * 
+    price: USD * 
     abv (alcohol by volume): Percentage
-    ph: Decimal
-    ta (total acifity): g/litre
+    ph: Decimal 
+    ta (total acidity): g/litre
     rs (residual sugar): g/litre
-    aging_notes: str
+    aging_notes: str * 
 }
 
 
