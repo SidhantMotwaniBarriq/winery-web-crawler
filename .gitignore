@@ -1,0 +1,13 @@
+# Ignore JSON files
+# *.json
+
+# Ignore environment variables file
+.env
+
+# Ignore virtual environment directories
+scrape-venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
