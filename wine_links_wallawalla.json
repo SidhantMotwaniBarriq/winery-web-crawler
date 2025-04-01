@@ -1,0 +1,839 @@
+{
+    "abeja": [
+        "https://wallawalla.guides.winefolly.com/wineries/abeja/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/abeja/wines/merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/abeja/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/abeja/wines/cabernet-franc-heather-hill/",
+        "https://wallawalla.guides.winefolly.com/wineries/abeja/wines/cabernet-sauvignon-heather-hill/",
+        "https://wallawalla.guides.winefolly.com/wineries/abeja/wines/chardonnay-washington-state/",
+        "https://wallawalla.guides.winefolly.com/wineries/abeja/wines/"
+    ],
+    "adamant-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/adamant-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/adamant-cellars/wines/nalin/",
+        "https://wallawalla.guides.winefolly.com/wineries/adamant-cellars/wines/bijoux/",
+        "https://wallawalla.guides.winefolly.com/wineries/adamant-cellars/wines/red-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/adamant-cellars/wines/winemaker-s-select-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/adamant-cellars/wines/winemaker-s-select-cabernet-sauvignon-and-merlot-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/adamant-cellars/wines/"
+    ],
+    "alleromb": [
+        "https://wallawalla.guides.winefolly.com/wineries/alleromb/wines/la-reyna-vineyard-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/alleromb/wines/scarline-vineyard-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/alleromb/wines/la-gran-flor-blanc-sauvignon-blanc/",
+        "https://wallawalla.guides.winefolly.com/wineries/alleromb/wines/le-gran-flor/",
+        "https://wallawalla.guides.winefolly.com/wineries/alleromb/wines/scarline-vineyard-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/alleromb/wines/cuvee-b-bordeaux-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/alleromb/wines/"
+    ],
+    "alton-wines": [
+        "https://wallawalla.guides.winefolly.com/wineries/alton-wines/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/alton-wines/wines/syrah-annual-share/",
+        "https://wallawalla.guides.winefolly.com/wineries/alton-wines/wines/"
+    ],
+    "aluve": [
+        "https://wallawalla.guides.winefolly.com/wineries/aluve/wines/estate-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/aluve/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/aluve/wines/sangiovese-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/aluve/wines/primo-volo-red-wine-signature-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/aluve/wines/estate-petit-verdot/",
+        "https://wallawalla.guides.winefolly.com/wineries/aluve/wines/weimaraner-red/",
+        "https://wallawalla.guides.winefolly.com/wineries/aluve/wines/"
+    ],
+    "amaurice-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/amaurice-cellars/wines/the-artist-morris/",
+        "https://wallawalla.guides.winefolly.com/wineries/amaurice-cellars/wines/the-artist-mason/",
+        "https://wallawalla.guides.winefolly.com/wineries/amaurice-cellars/wines/boushey-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/amaurice-cellars/wines/conner-lee-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/amaurice-cellars/wines/columbia-valley-malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/amaurice-cellars/wines/the-artist-schafer-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/amaurice-cellars/wines/"
+    ],
+    "amavi-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/amavi-cellars/wines/late-harvest-semillon/",
+        "https://wallawalla.guides.winefolly.com/wineries/amavi-cellars/wines/ceres/",
+        "https://wallawalla.guides.winefolly.com/wineries/amavi-cellars/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/amavi-cellars/wines/semillon/",
+        "https://wallawalla.guides.winefolly.com/wineries/amavi-cellars/wines/cabernet-franc-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/amavi-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/amavi-cellars/wines/"
+    ],
+    "armstrong-family-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/armstrong-family-winery/wines/wild-angels/",
+        "https://wallawalla.guides.winefolly.com/wineries/armstrong-family-winery/wines/nana-jean-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/armstrong-family-winery/wines/riesling/",
+        "https://wallawalla.guides.winefolly.com/wineries/armstrong-family-winery/wines/fronk/",
+        "https://wallawalla.guides.winefolly.com/wineries/armstrong-family-winery/wines/the-scotsman-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/armstrong-family-winery/wines/viognier/",
+        "https://wallawalla.guides.winefolly.com/wineries/armstrong-family-winery/wines/"
+    ],
+    "balboa-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/balboa-winery/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/balboa-winery/wines/constrictor/",
+        "https://wallawalla.guides.winefolly.com/wineries/balboa-winery/wines/red-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/balboa-winery/wines/mith/",
+        "https://wallawalla.guides.winefolly.com/wineries/balboa-winery/wines/mourverdre/",
+        "https://wallawalla.guides.winefolly.com/wineries/balboa-winery/wines/eidolon/",
+        "https://wallawalla.guides.winefolly.com/wineries/balboa-winery/wines/"
+    ],
+    "barons-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/barons-winery/wines/chardonnay-columbia-valley/",
+        "https://wallawalla.guides.winefolly.com/wineries/barons-winery/wines/barons-v-cabernet-sauvignon-columbia-valley/",
+        "https://wallawalla.guides.winefolly.com/wineries/barons-winery/wines/syrah-stone-tree-vineyard-wine-club/",
+        "https://wallawalla.guides.winefolly.com/wineries/barons-winery/wines/merlot-hedges-vineyard-wine-club/",
+        "https://wallawalla.guides.winefolly.com/wineries/barons-winery/wines/cabernet-sauvignon-rosebud-vineyard-wine-club/",
+        "https://wallawalla.guides.winefolly.com/wineries/barons-winery/wines/sauvignon-blanc/",
+        "https://wallawalla.guides.winefolly.com/wineries/barons-winery/wines/"
+    ],
+    "basel-cellars-estate-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/basel-cellars-estate-winery/wines/vue-des-blues/",
+        "https://wallawalla.guides.winefolly.com/wineries/basel-cellars-estate-winery/wines/chenin-blanc/",
+        "https://wallawalla.guides.winefolly.com/wineries/basel-cellars-estate-winery/wines/merriment/",
+        "https://wallawalla.guides.winefolly.com/wineries/basel-cellars-estate-winery/wines/2901-white/",
+        "https://wallawalla.guides.winefolly.com/wineries/basel-cellars-estate-winery/wines/sauvignon-blanc-semillon/",
+        "https://wallawalla.guides.winefolly.com/wineries/basel-cellars-estate-winery/wines/2901-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/basel-cellars-estate-winery/wines/"
+    ],
+    "bergevin-lane-vineyards": [
+        "https://wallawalla.guides.winefolly.com/wineries/bergevin-lane-vineyards/wines/dreamweaver-roussanne/",
+        "https://wallawalla.guides.winefolly.com/wineries/bergevin-lane-vineyards/wines/linen-sauvignon-blanc/",
+        "https://wallawalla.guides.winefolly.com/wineries/bergevin-lane-vineyards/wines/linen-carmenere/",
+        "https://wallawalla.guides.winefolly.com/wineries/bergevin-lane-vineyards/wines/she-devil-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/bergevin-lane-vineyards/wines/dreamweaver-malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/bergevin-lane-vineyards/wines/moonspell-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/bergevin-lane-vineyards/wines/"
+    ],
+    "betz-family-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/betz-family-winery/wines/clos-de-betz/",
+        "https://wallawalla.guides.winefolly.com/wineries/betz-family-winery/wines/possibility/",
+        "https://wallawalla.guides.winefolly.com/wineries/betz-family-winery/wines/pere-de-famille/",
+        "https://wallawalla.guides.winefolly.com/wineries/betz-family-winery/wines/heart-of-the-hill/",
+        "https://wallawalla.guides.winefolly.com/wineries/betz-family-winery/wines/domaine-de-pierres/",
+        "https://wallawalla.guides.winefolly.com/wineries/betz-family-winery/wines/"
+    ],
+    "bledsoe-family-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/bledsoe-family-winery/wines/healy-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/bledsoe-family-winery/wines/viognier/",
+        "https://wallawalla.guides.winefolly.com/wineries/bledsoe-family-winery/wines/malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/bledsoe-family-winery/wines/elizabeth/",
+        "https://wallawalla.guides.winefolly.com/wineries/bledsoe-family-winery/wines/stolen-horse/",
+        "https://wallawalla.guides.winefolly.com/wineries/bledsoe-family-winery/wines/joi-white-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/bledsoe-family-winery/wines/"
+    ],
+    "bledsoe-mcdaniels": [
+        "https://wallawalla.guides.winefolly.com/wineries/bledsoe-mcdaniels/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/bledsoe-mcdaniels/wines/"
+    ],
+    "bontzu-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/bontzu-cellars/wines/pinot-gris/",
+        "https://wallawalla.guides.winefolly.com/wineries/bontzu-cellars/wines/viognier/",
+        "https://wallawalla.guides.winefolly.com/wineries/bontzu-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/bontzu-cellars/wines/cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/bontzu-cellars/wines/malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/bontzu-cellars/wines/sangiovese/",
+        "https://wallawalla.guides.winefolly.com/wineries/bontzu-cellars/wines/"
+    ],
+    "brady-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/brady-cellars/wines/symphony/",
+        "https://wallawalla.guides.winefolly.com/wineries/brady-cellars/wines/cabernet-sauvignon-upland-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/brady-cellars/wines/grenache/",
+        "https://wallawalla.guides.winefolly.com/wineries/brady-cellars/wines/cabernet-sauvignon-blue-mountain-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/brady-cellars/wines/merlot-les-collines-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/brady-cellars/wines/dry-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/brady-cellars/wines/"
+    ],
+    "brook-bull-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/brook-bull-cellars/wines/come-hell-or-high-water/",
+        "https://wallawalla.guides.winefolly.com/wineries/brook-bull-cellars/wines/the-silent-ode/",
+        "https://wallawalla.guides.winefolly.com/wineries/brook-bull-cellars/wines/rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/brook-bull-cellars/wines/reserve-malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/brook-bull-cellars/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/brook-bull-cellars/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/brook-bull-cellars/wines/"
+    ],
+    "browne-family-vineyards": [
+        "https://wallawalla.guides.winefolly.com/wineries/browne-family-vineyards/wines/grenache-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/browne-family-vineyards/wines/estate-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/browne-family-vineyards/wines/sauvignon-blanc/",
+        "https://wallawalla.guides.winefolly.com/wineries/browne-family-vineyards/wines/tribute-red-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/browne-family-vineyards/wines/malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/browne-family-vineyards/wines/petit-verdot/",
+        "https://wallawalla.guides.winefolly.com/wineries/browne-family-vineyards/wines/"
+    ],
+    "buty": [
+        "https://wallawalla.guides.winefolly.com/wineries/buty/wines/rediviva-of-the-stones/",
+        "https://wallawalla.guides.winefolly.com/wineries/buty/wines/beast-phinny-hill-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/buty/wines/beast-phinny-hill-reserva-style-malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/buty/wines/rose-of-the-stones/",
+        "https://wallawalla.guides.winefolly.com/wineries/buty/wines/semillon-sauvignon-muscadelle/",
+        "https://wallawalla.guides.winefolly.com/wineries/buty/wines/rockgarden-estate-mourvedre-syrah-grenache/",
+        "https://wallawalla.guides.winefolly.com/wineries/buty/wines/"
+    ],
+    "canvasback": [
+        "https://wallawalla.guides.winefolly.com/wineries/canvasback/wines/red-mountain-washington-state-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/canvasback/wines/columbia-valley-riesling/",
+        "https://wallawalla.guides.winefolly.com/wineries/canvasback/wines/walla-walla-valley-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/canvasback/wines/walla-walla-valley-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/canvasback/wines/red-mountain-gsm/",
+        "https://wallawalla.guides.winefolly.com/wineries/canvasback/wines/red-mountain-cabernet-sauvignon-ciel-du-cheval-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/canvasback/wines/"
+    ],
+    "caprio-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/caprio-cellars/wines/eleanor-red-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/caprio-cellars/wines/estate-rose-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/caprio-cellars/wines/eleanor-estate-red-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/caprio-cellars/wines/estate-white-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/caprio-cellars/wines/sanitella/",
+        "https://wallawalla.guides.winefolly.com/wineries/caprio-cellars/wines/red-label-cab/",
+        "https://wallawalla.guides.winefolly.com/wineries/caprio-cellars/wines/"
+    ],
+    "castillo-de-feliciana-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/castillo-de-feliciana-winery/wines/tempranillo/",
+        "https://wallawalla.guides.winefolly.com/wineries/castillo-de-feliciana-winery/wines/cohones/",
+        "https://wallawalla.guides.winefolly.com/wineries/castillo-de-feliciana-winery/wines/bull-albarino/",
+        "https://wallawalla.guides.winefolly.com/wineries/castillo-de-feliciana-winery/wines/adentro-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/castillo-de-feliciana-winery/wines/malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/castillo-de-feliciana-winery/wines/tempranillo-reserve/",
+        "https://wallawalla.guides.winefolly.com/wineries/castillo-de-feliciana-winery/wines/"
+    ],
+    "cavu-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/cavu-cellars/wines/rule-breaker-ii/",
+        "https://wallawalla.guides.winefolly.com/wineries/cavu-cellars/wines/petite-sirah/",
+        "https://wallawalla.guides.winefolly.com/wineries/cavu-cellars/wines/tempranillo/",
+        "https://wallawalla.guides.winefolly.com/wineries/cavu-cellars/wines/malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/cavu-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/cavu-cellars/wines/horizon-red/",
+        "https://wallawalla.guides.winefolly.com/wineries/cavu-cellars/wines/"
+    ],
+    "cayuse-vineyards": [
+        "https://wallawalla.guides.winefolly.com/wineries/cayuse-vineyards/wines/armada-vineyard-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/cayuse-vineyards/wines/bionic-frog-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/cayuse-vineyards/wines/flying-pig/",
+        "https://wallawalla.guides.winefolly.com/wineries/cayuse-vineyards/wines/god-only-knows-grenache/",
+        "https://wallawalla.guides.winefolly.com/wineries/cayuse-vineyards/wines/en-chamberlin-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/cayuse-vineyards/wines/wine-7/",
+        "https://wallawalla.guides.winefolly.com/wineries/cayuse-vineyards/wines/"
+    ],
+    "college-cellars-of-walla-walla": [
+        "https://wallawalla.guides.winefolly.com/wineries/college-cellars-of-walla-walla/wines/syrah-joseph-cristy-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/college-cellars-of-walla-walla/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/college-cellars-of-walla-walla/wines/foothills-gsm/",
+        "https://wallawalla.guides.winefolly.com/wineries/college-cellars-of-walla-walla/wines/viognier/",
+        "https://wallawalla.guides.winefolly.com/wineries/college-cellars-of-walla-walla/wines/la-laurelia-sangiovese/",
+        "https://wallawalla.guides.winefolly.com/wineries/college-cellars-of-walla-walla/wines/marsanne/",
+        "https://wallawalla.guides.winefolly.com/wineries/college-cellars-of-walla-walla/wines/"
+    ],
+    "cougar-crest-estate-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/cougar-crest-estate-winery/wines/minstrel/",
+        "https://wallawalla.guides.winefolly.com/wineries/cougar-crest-estate-winery/wines/tempranillo/",
+        "https://wallawalla.guides.winefolly.com/wineries/cougar-crest-estate-winery/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/cougar-crest-estate-winery/wines/syrillo/",
+        "https://wallawalla.guides.winefolly.com/wineries/cougar-crest-estate-winery/wines/petit-verdot/",
+        "https://wallawalla.guides.winefolly.com/wineries/cougar-crest-estate-winery/wines/cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/cougar-crest-estate-winery/wines/"
+    ],
+    "dama-wines": [
+        "https://wallawalla.guides.winefolly.com/wineries/dama-wines/wines/cowgirl-blanc/",
+        "https://wallawalla.guides.winefolly.com/wineries/dama-wines/wines/damanation-gsm/",
+        "https://wallawalla.guides.winefolly.com/wineries/dama-wines/wines/cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/dama-wines/wines/gsm/",
+        "https://wallawalla.guides.winefolly.com/wineries/dama-wines/wines/cab-franc-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/dama-wines/wines/grenache/",
+        "https://wallawalla.guides.winefolly.com/wineries/dama-wines/wines/"
+    ],
+    "delmas": [
+        "https://wallawalla.guides.winefolly.com/wineries/delmas/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/delmas/wines/viognier/",
+        "https://wallawalla.guides.winefolly.com/wineries/delmas/wines/"
+    ],
+    "dillon-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/dillon-cellars/wines/erratic-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/dillon-cellars/wines/wrought-mourvedre-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/dillon-cellars/wines/calyptra-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/dillon-cellars/wines/reserve-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/dillon-cellars/wines/wrought-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/dillon-cellars/wines/"
+    ],
+    "dossier-wine": [
+        "https://wallawalla.guides.winefolly.com/wineries/dossier-wine/wines/syrah-dossier-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/dossier-wine/wines/"
+    ],
+    "doubleback": [
+        "https://wallawalla.guides.winefolly.com/wineries/doubleback/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/doubleback/wines/estate-reserve/",
+        "https://wallawalla.guides.winefolly.com/wineries/doubleback/wines/"
+    ],
+    "dowsett-family-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/dowsett-family-winery/wines/mourvedre/",
+        "https://wallawalla.guides.winefolly.com/wineries/dowsett-family-winery/wines/georgia-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/dowsett-family-winery/wines/"
+    ],
+    "ducleaux-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/ducleaux-cellars/wines/love-chaos/",
+        "https://wallawalla.guides.winefolly.com/wineries/ducleaux-cellars/wines/anarchy/",
+        "https://wallawalla.guides.winefolly.com/wineries/ducleaux-cellars/wines/one-night-stand/",
+        "https://wallawalla.guides.winefolly.com/wineries/ducleaux-cellars/wines/pink-slip-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/ducleaux-cellars/wines/raucous/",
+        "https://wallawalla.guides.winefolly.com/wineries/ducleaux-cellars/wines/call-sign-pet-nat/",
+        "https://wallawalla.guides.winefolly.com/wineries/ducleaux-cellars/wines/"
+    ],
+    "dunham-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/dunham-cellars/wines/trutina/",
+        "https://wallawalla.guides.winefolly.com/wineries/dunham-cellars/wines/four-legged-white/",
+        "https://wallawalla.guides.winefolly.com/wineries/dunham-cellars/wines/rose-of-cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/dunham-cellars/wines/sauvignon-blanc/",
+        "https://wallawalla.guides.winefolly.com/wineries/dunham-cellars/wines/lewis-vineyard-riesling/",
+        "https://wallawalla.guides.winefolly.com/wineries/dunham-cellars/wines/three-legged-red/",
+        "https://wallawalla.guides.winefolly.com/wineries/dunham-cellars/wines/"
+    ],
+    "dusted-valley": [
+        "https://wallawalla.guides.winefolly.com/wineries/dusted-valley/wines/bfm-dionysus-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/dusted-valley/wines/ramblin-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/dusted-valley/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/dusted-valley/wines/rachis/",
+        "https://wallawalla.guides.winefolly.com/wineries/dusted-valley/wines/malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/dusted-valley/wines/wallywood/",
+        "https://wallawalla.guides.winefolly.com/wineries/dusted-valley/wines/"
+    ],
+    "echolands-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/echolands-winery/wines/seven-hills-vineyard-red/",
+        "https://wallawalla.guides.winefolly.com/wineries/echolands-winery/wines/grenache-riviere-galets-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/echolands-winery/wines/poet-nat-sparkling-cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/echolands-winery/wines/syrah-les-collines-vineyard1/",
+        "https://wallawalla.guides.winefolly.com/wineries/echolands-winery/wines/"
+    ],
+    "el-corazon-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/el-corazon-winery/wines/run-with-the-hunted/",
+        "https://wallawalla.guides.winefolly.com/wineries/el-corazon-winery/wines/"
+    ],
+    "elegante-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/elegante-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/elegante-cellars/wines/gewurztraminer/",
+        "https://wallawalla.guides.winefolly.com/wineries/elegante-cellars/wines/malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/elegante-cellars/wines/sangiovese/",
+        "https://wallawalla.guides.winefolly.com/wineries/elegante-cellars/wines/merlot-library-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/elegante-cellars/wines/tempranillo/",
+        "https://wallawalla.guides.winefolly.com/wineries/elegante-cellars/wines/"
+    ],
+    "elephant-seven": [
+        "https://wallawalla.guides.winefolly.com/wineries/elephant-seven/wines/yellow-bird-vineyard-grenache/",
+        "https://wallawalla.guides.winefolly.com/wineries/elephant-seven/wines/blue-mountain-vineyard-viognier/",
+        "https://wallawalla.guides.winefolly.com/wineries/elephant-seven/wines/river-rock-vineyard-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/elephant-seven/wines/diwa-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/elephant-seven/wines/yellow-bird-vineyard-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/elephant-seven/wines/anita-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/elephant-seven/wines/"
+    ],
+    "eternal-wines-drink-washington-state": [
+        "https://wallawalla.guides.winefolly.com/wineries/eternal-wines-drink-washington-state/wines/drink-washington-state-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/eternal-wines-drink-washington-state/wines/drink-washington-state-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/eternal-wines-drink-washington-state/wines/drink-washington-state-carmenere/",
+        "https://wallawalla.guides.winefolly.com/wineries/eternal-wines-drink-washington-state/wines/eternal-gratitude-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/eternal-wines-drink-washington-state/wines/eternal-heritage-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/eternal-wines-drink-washington-state/wines/eternal-darkness-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/eternal-wines-drink-washington-state/wines/"
+    ],
+    "figgins": [
+        "https://wallawalla.guides.winefolly.com/wineries/figgins/wines/riesling/",
+        "https://wallawalla.guides.winefolly.com/wineries/figgins/wines/estate-red-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/figgins/wines/figlia/",
+        "https://wallawalla.guides.winefolly.com/wineries/figgins/wines/"
+    ],
+    "five-star-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/five-star-cellars/wines/stellar/",
+        "https://wallawalla.guides.winefolly.com/wineries/five-star-cellars/wines/kynzie/",
+        "https://wallawalla.guides.winefolly.com/wineries/five-star-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/five-star-cellars/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/five-star-cellars/wines/malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/five-star-cellars/wines/sangiovese/",
+        "https://wallawalla.guides.winefolly.com/wineries/five-star-cellars/wines/"
+    ],
+    "force-majeure-vineyards": [
+        "https://wallawalla.guides.winefolly.com/wineries/force-majeure-vineyards/wines/force-majeure-estate-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/force-majeure-vineyards/wines/force-majeure-estate-parvata/",
+        "https://wallawalla.guides.winefolly.com/wineries/force-majeure-vineyards/wines/force-majeure-estate-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/force-majeure-vineyards/wines/force-majeure-estate-epinette/",
+        "https://wallawalla.guides.winefolly.com/wineries/force-majeure-vineyards/wines/"
+    ],
+    "foundry-vineyards": [
+        "https://wallawalla.guides.winefolly.com/wineries/foundry-vineyards/wines/white-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/foundry-vineyards/wines/conley-malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/foundry-vineyards/wines/merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/foundry-vineyards/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/foundry-vineyards/wines/cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/foundry-vineyards/wines/pinot-noir-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/foundry-vineyards/wines/"
+    ],
+    "garrison-creek-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/garrison-creek-cellars/wines/tempranillo/",
+        "https://wallawalla.guides.winefolly.com/wineries/garrison-creek-cellars/wines/estate-reserve/",
+        "https://wallawalla.guides.winefolly.com/wineries/garrison-creek-cellars/wines/malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/garrison-creek-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/garrison-creek-cellars/wines/merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/garrison-creek-cellars/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/garrison-creek-cellars/wines/"
+    ],
+    "gifford-hirlinger": [
+        "https://wallawalla.guides.winefolly.com/wineries/gifford-hirlinger/wines/estate-pinot-gris/",
+        "https://wallawalla.guides.winefolly.com/wineries/gifford-hirlinger/wines/stateline-red/",
+        "https://wallawalla.guides.winefolly.com/wineries/gifford-hirlinger/wines/estate-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/gifford-hirlinger/wines/obligatory-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/gifford-hirlinger/wines/estate-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/gifford-hirlinger/wines/estate-malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/gifford-hirlinger/wines/"
+    ],
+    "golden-ridge-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/golden-ridge-cellars/wines/estate-red/",
+        "https://wallawalla.guides.winefolly.com/wineries/golden-ridge-cellars/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/golden-ridge-cellars/wines/estate-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/golden-ridge-cellars/wines/estate-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/golden-ridge-cellars/wines/"
+    ],
+    "gramercy-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/gramercy-cellars/wines/syrah-john-lewis/",
+        "https://wallawalla.guides.winefolly.com/wineries/gramercy-cellars/wines/mourvedre-lower-east/",
+        "https://wallawalla.guides.winefolly.com/wineries/gramercy-cellars/wines/gramercy-estates/",
+        "https://wallawalla.guides.winefolly.com/wineries/gramercy-cellars/wines/cabernet-sauvignon-lower-east/",
+        "https://wallawalla.guides.winefolly.com/wineries/gramercy-cellars/wines/syrah-walla-walla/",
+        "https://wallawalla.guides.winefolly.com/wineries/gramercy-cellars/wines/rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/gramercy-cellars/wines/"
+    ],
+    "grosgrain": [
+        "https://wallawalla.guides.winefolly.com/wineries/grosgrain/wines/skin-contact-semillon/",
+        "https://wallawalla.guides.winefolly.com/wineries/grosgrain/wines/"
+    ],
+    "hoquetus-wine-company": [
+        "https://wallawalla.guides.winefolly.com/wineries/hoquetus-wine-company/wines/cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/hoquetus-wine-company/wines/riesling/",
+        "https://wallawalla.guides.winefolly.com/wineries/hoquetus-wine-company/wines/rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/hoquetus-wine-company/wines/la-syranique/",
+        "https://wallawalla.guides.winefolly.com/wineries/hoquetus-wine-company/wines/"
+    ],
+    "horsepower-vineyards": [
+        "https://wallawalla.guides.winefolly.com/wineries/horsepower-vineyards/wines/grenache-fiddleneck-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/horsepower-vineyards/wines/grenache-sur-echalas-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/horsepower-vineyards/wines/syrah-high-contrast-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/horsepower-vineyards/wines/syrah-sur-echalas-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/horsepower-vineyards/wines/syrah-the-tribe-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/horsepower-vineyards/wines/"
+    ],
+    "house-of-bones": [
+        "https://wallawalla.guides.winefolly.com/wineries/house-of-bones/wines/proper-reserve/",
+        "https://wallawalla.guides.winefolly.com/wineries/house-of-bones/wines/house-of-bones-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/house-of-bones/wines/estate-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/house-of-bones/wines/"
+    ],
+    "house-of-smith": [
+        "https://wallawalla.guides.winefolly.com/wineries/house-of-smith/wines/kung-fu-girl-riesling/",
+        "https://wallawalla.guides.winefolly.com/wineries/house-of-smith/wines/boom-boom-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/house-of-smith/wines/eve-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/house-of-smith/wines/band-of-roses-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/house-of-smith/wines/the-velvet-devil-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/house-of-smith/wines/chateau-smith-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/house-of-smith/wines/"
+    ],
+    "isenhower-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/isenhower-cellars/wines/rara-avis-grenache/",
+        "https://wallawalla.guides.winefolly.com/wineries/isenhower-cellars/wines/i-label-malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/isenhower-cellars/wines/i-label-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/isenhower-cellars/wines/i-label-cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/isenhower-cellars/wines/wild-thyme-bordeaux-style-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/isenhower-cellars/wines/roussanne/",
+        "https://wallawalla.guides.winefolly.com/wineries/isenhower-cellars/wines/"
+    ],
+    "ita-wines": [
+        "https://wallawalla.guides.winefolly.com/wineries/ita-wines/wines/semillon-1-of-2/",
+        "https://wallawalla.guides.winefolly.com/wineries/ita-wines/wines/merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/ita-wines/wines/semillon-2-of-2/",
+        "https://wallawalla.guides.winefolly.com/wineries/ita-wines/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/ita-wines/wines/rose-of-primitivo/",
+        "https://wallawalla.guides.winefolly.com/wineries/ita-wines/wines/pinot-noir/",
+        "https://wallawalla.guides.winefolly.com/wineries/ita-wines/wines/"
+    ],
+    "kinhaven-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/kinhaven-winery/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/kinhaven-winery/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/kinhaven-winery/wines/carmenere/",
+        "https://wallawalla.guides.winefolly.com/wineries/kinhaven-winery/wines/estate-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/kinhaven-winery/wines/malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/kinhaven-winery/wines/red-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/kinhaven-winery/wines/"
+    ],
+    "kontos-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/kontos-cellars/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/kontos-cellars/wines/fysalides/",
+        "https://wallawalla.guides.winefolly.com/wineries/kontos-cellars/wines/alatus/",
+        "https://wallawalla.guides.winefolly.com/wineries/kontos-cellars/wines/gossamer-white/",
+        "https://wallawalla.guides.winefolly.com/wineries/kontos-cellars/wines/merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/kontos-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/kontos-cellars/wines/"
+    ],
+    "lagana-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/lagana-cellars/wines/walla-walla-valley-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/lagana-cellars/wines/sparkling-sangiovese-blanc-de-noir/",
+        "https://wallawalla.guides.winefolly.com/wineries/lagana-cellars/wines/nox-eternelle-albarino/",
+        "https://wallawalla.guides.winefolly.com/wineries/lagana-cellars/wines/sagemoor-vineyard-roussanne/",
+        "https://wallawalla.guides.winefolly.com/wineries/lagana-cellars/wines/j-s-vineyards-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/lagana-cellars/wines/walla-walla-valley-cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/lagana-cellars/wines/"
+    ],
+    "la-rata": [
+        "https://wallawalla.guides.winefolly.com/wineries/la-rata/wines/la-rata/",
+        "https://wallawalla.guides.winefolly.com/wineries/la-rata/wines/"
+    ],
+    "l-ecole-no-41": [
+        "https://wallawalla.guides.winefolly.com/wineries/l-ecole-no-41/wines/gsm-estate-seven-hills-vineyard-walla-walla-valley/",
+        "https://wallawalla.guides.winefolly.com/wineries/l-ecole-no-41/wines/semillon-columbia-valley/",
+        "https://wallawalla.guides.winefolly.com/wineries/l-ecole-no-41/wines/syrah-columbia-valley/",
+        "https://wallawalla.guides.winefolly.com/wineries/l-ecole-no-41/wines/chardonnay-evergreen-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/l-ecole-no-41/wines/cabernet-franc-merlot-estate/",
+        "https://wallawalla.guides.winefolly.com/wineries/l-ecole-no-41/wines/chardonnay-columbia-valley/",
+        "https://wallawalla.guides.winefolly.com/wineries/l-ecole-no-41/wines/"
+    ],
+    "leonetti-cellar": [
+        "https://wallawalla.guides.winefolly.com/wineries/leonetti-cellar/wines/holy-roller/",
+        "https://wallawalla.guides.winefolly.com/wineries/leonetti-cellar/wines/loess/",
+        "https://wallawalla.guides.winefolly.com/wineries/leonetti-cellar/wines/aglianico/",
+        "https://wallawalla.guides.winefolly.com/wineries/leonetti-cellar/wines/mill-creek-upland/",
+        "https://wallawalla.guides.winefolly.com/wineries/leonetti-cellar/wines/serra-place/",
+        "https://wallawalla.guides.winefolly.com/wineries/leonetti-cellar/wines/sangiovese/",
+        "https://wallawalla.guides.winefolly.com/wineries/leonetti-cellar/wines/"
+    ],
+    "locati-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/locati-cellars/wines/columbia-valley-pinot-grigio/",
+        "https://wallawalla.guides.winefolly.com/wineries/locati-cellars/wines/estate-barbera/",
+        "https://wallawalla.guides.winefolly.com/wineries/locati-cellars/wines/estate-sangiovese/",
+        "https://wallawalla.guides.winefolly.com/wineries/locati-cellars/wines/nebbiolo-locati-cellars/",
+        "https://wallawalla.guides.winefolly.com/wineries/locati-cellars/wines/tempranillo-locati-cellars/",
+        "https://wallawalla.guides.winefolly.com/wineries/locati-cellars/wines/cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/locati-cellars/wines/"
+    ],
+    "long-shadows-vintners": [
+        "https://wallawalla.guides.winefolly.com/wineries/long-shadows-vintners/wines/sequel/",
+        "https://wallawalla.guides.winefolly.com/wineries/long-shadows-vintners/wines/poet-s-leap/",
+        "https://wallawalla.guides.winefolly.com/wineries/long-shadows-vintners/wines/dance/",
+        "https://wallawalla.guides.winefolly.com/wineries/long-shadows-vintners/wines/julia-s-dazzle/",
+        "https://wallawalla.guides.winefolly.com/wineries/long-shadows-vintners/wines/pedestal-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/long-shadows-vintners/wines/pirouette/",
+        "https://wallawalla.guides.winefolly.com/wineries/long-shadows-vintners/wines/"
+    ],
+    "los-rocosos-vineyards": [
+        "https://wallawalla.guides.winefolly.com/wineries/los-rocosos-vineyards/wines/suenos-de-luz-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/los-rocosos-vineyards/wines/cosecha-da-luna-reserve-mourvedre/",
+        "https://wallawalla.guides.winefolly.com/wineries/los-rocosos-vineyards/wines/zaragueya-de-luna-reserve-sangiovese-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/los-rocosos-vineyards/wines/nine-moon-estate-gsm/",
+        "https://wallawalla.guides.winefolly.com/wineries/los-rocosos-vineyards/wines/zaragueya-de-luna-sangiovese-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/los-rocosos-vineyards/wines/miguelito-y-rosa-reserve-malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/los-rocosos-vineyards/wines/"
+    ],
+    "maison-bleue": [
+        "https://wallawalla.guides.winefolly.com/wineries/maison-bleue/wines/graviere-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/maison-bleue/wines/voyageur-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/maison-bleue/wines/bourgeois-grenache/",
+        "https://wallawalla.guides.winefolly.com/wineries/maison-bleue/wines/coureur-des-bois-red-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/maison-bleue/wines/voltigeur-viognier/",
+        "https://wallawalla.guides.winefolly.com/wineries/maison-bleue/wines/lisette-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/maison-bleue/wines/"
+    ],
+    "mansion-creek-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/mansion-creek-cellars/wines/ramblas-red/",
+        "https://wallawalla.guides.winefolly.com/wineries/mansion-creek-cellars/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/mansion-creek-cellars/wines/julia-s-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/mansion-creek-cellars/wines/merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/mansion-creek-cellars/wines/rosado/",
+        "https://wallawalla.guides.winefolly.com/wineries/mansion-creek-cellars/wines/red-dog/",
+        "https://wallawalla.guides.winefolly.com/wineries/mansion-creek-cellars/wines/"
+    ],
+    "moonbase-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/moonbase-cellars/wines/viognier/",
+        "https://wallawalla.guides.winefolly.com/wineries/moonbase-cellars/wines/rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/moonbase-cellars/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/moonbase-cellars/wines/max-q-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/moonbase-cellars/wines/moonlapse/",
+        "https://wallawalla.guides.winefolly.com/wineries/moonbase-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/moonbase-cellars/wines/"
+    ],
+    "no-girls-wines": [
+        "https://wallawalla.guides.winefolly.com/wineries/no-girls-wines/wines/no-girls-wines-grenache-la-paciencia-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/no-girls-wines/wines/"
+    ],
+    "northstar-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/northstar-winery/wines/cabernet-sauvignon-columbia-valley/",
+        "https://wallawalla.guides.winefolly.com/wineries/northstar-winery/wines/cabernet-sauvignon-walla-walla-valley/",
+        "https://wallawalla.guides.winefolly.com/wineries/northstar-winery/wines/columbia-valley-brut-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/northstar-winery/wines/columbia-valley-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/northstar-winery/wines/walla-walla-valley-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/northstar-winery/wines/walla-walla-red-wine-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/northstar-winery/wines/"
+    ],
+    "otis-kenyon-wine": [
+        "https://wallawalla.guides.winefolly.com/wineries/otis-kenyon-wine/wines/roussanne/",
+        "https://wallawalla.guides.winefolly.com/wineries/otis-kenyon-wine/wines/syrah-stellar-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/otis-kenyon-wine/wines/matchless-red-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/otis-kenyon-wine/wines/tempranillo/",
+        "https://wallawalla.guides.winefolly.com/wineries/otis-kenyon-wine/wines/merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/otis-kenyon-wine/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/otis-kenyon-wine/wines/"
+    ],
+    "pambrun-wines": [
+        "https://wallawalla.guides.winefolly.com/wineries/pambrun-wines/wines/chrysologue/",
+        "https://wallawalla.guides.winefolly.com/wineries/pambrun-wines/wines/merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/pambrun-wines/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/pambrun-wines/wines/"
+    ],
+    "pasxa-wines": [],
+    "pepper-bridge-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/pepper-bridge-winery/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/pepper-bridge-winery/wines/merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/pepper-bridge-winery/wines/sauvignon-blanc/",
+        "https://wallawalla.guides.winefolly.com/wineries/pepper-bridge-winery/wines/trine/",
+        "https://wallawalla.guides.winefolly.com/wineries/pepper-bridge-winery/wines/seven-hills-vineyard-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/pepper-bridge-winery/wines/pepper-bridge-vineyard-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/pepper-bridge-winery/wines/"
+    ],
+    "proper-wines": [],
+    "prospice-wines": [
+        "https://wallawalla.guides.winefolly.com/wineries/prospice-wines/wines/les-collines-vineyard-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/prospice-wines/wines/walla-walla-valley-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/prospice-wines/wines/phinny-hill-vineyard-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/prospice-wines/wines/bdx/",
+        "https://wallawalla.guides.winefolly.com/wineries/prospice-wines/wines/walla-walla-valley-cabernet-franc-prospice-wines/",
+        "https://wallawalla.guides.winefolly.com/wineries/prospice-wines/wines/meravina/",
+        "https://wallawalla.guides.winefolly.com/wineries/prospice-wines/wines/"
+    ],
+    "pursued-by-bear": [
+        "https://wallawalla.guides.winefolly.com/wineries/pursued-by-bear/wines/pursued-by-bear-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/pursued-by-bear/wines/blushing-bear-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/pursued-by-bear/wines/twin-bear-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/pursued-by-bear/wines/baby-bear-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/pursued-by-bear/wines/bear-cub-red-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/pursued-by-bear/wines/"
+    ],
+    "reininger-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/reininger-winery/wines/cpr-reserve-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/reininger-winery/wines/reininger-carmenere/",
+        "https://wallawalla.guides.winefolly.com/wineries/reininger-winery/wines/reininger-malbec/",
+        "https://wallawalla.guides.winefolly.com/wineries/reininger-winery/wines/helix-merlot-xm/",
+        "https://wallawalla.guides.winefolly.com/wineries/reininger-winery/wines/helix-pomatia/",
+        "https://wallawalla.guides.winefolly.com/wineries/reininger-winery/wines/helix-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/reininger-winery/wines/"
+    ],
+    "revelry-vintners": [
+        "https://wallawalla.guides.winefolly.com/wineries/revelry-vintners/wines/conner-lee-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/revelry-vintners/wines/range-grenache-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/revelry-vintners/wines/d11-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/revelry-vintners/wines/block-18-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/revelry-vintners/wines/block-19-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/revelry-vintners/wines/horse-heaven-reserve-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/revelry-vintners/wines/"
+    ],
+    "rotie-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/rotie-cellars/wines/southern-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/rotie-cellars/wines/southern-white/",
+        "https://wallawalla.guides.winefolly.com/wineries/rotie-cellars/wines/northern-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/rotie-cellars/wines/"
+    ],
+    "saviah-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/saviah-cellars/wines/walla-walla-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/saviah-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/saviah-cellars/wines/"
+    ],
+    "seven-hills-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/seven-hills-winery/wines/ciel-du-cheval-vineyard-red-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/seven-hills-winery/wines/shw-founding-vineyard-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/seven-hills-winery/wines/mcclellan-estate-vineyard-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/seven-hills-winery/wines/seven-hills-winery-walla-walla-valley-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/seven-hills-winery/wines/cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/seven-hills-winery/wines/sauvignon-blanc/",
+        "https://wallawalla.guides.winefolly.com/wineries/seven-hills-winery/wines/"
+    ],
+    "sleight-of-hand-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/sleight-of-hand-cellars/wines/the-spellbinder/",
+        "https://wallawalla.guides.winefolly.com/wineries/sleight-of-hand-cellars/wines/levitation/",
+        "https://wallawalla.guides.winefolly.com/wineries/sleight-of-hand-cellars/wines/the-magician-riesling/",
+        "https://wallawalla.guides.winefolly.com/wineries/sleight-of-hand-cellars/wines/the-conjurer/",
+        "https://wallawalla.guides.winefolly.com/wineries/sleight-of-hand-cellars/wines/spiders-from-mars/",
+        "https://wallawalla.guides.winefolly.com/wineries/sleight-of-hand-cellars/wines/the-funkadelic/",
+        "https://wallawalla.guides.winefolly.com/wineries/sleight-of-hand-cellars/wines/"
+    ],
+    "smak-wines": [
+        "https://wallawalla.guides.winefolly.com/wineries/smak-wines/wines/summer-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/smak-wines/wines/fall-winter-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/smak-wines/wines/"
+    ],
+    "smoky-rose-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/smoky-rose-cellars/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/smoky-rose-cellars/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/smoky-rose-cellars/wines/grenache/",
+        "https://wallawalla.guides.winefolly.com/wineries/smoky-rose-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/smoky-rose-cellars/wines/riesling/",
+        "https://wallawalla.guides.winefolly.com/wineries/smoky-rose-cellars/wines/merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/smoky-rose-cellars/wines/"
+    ],
+    "solemn-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/solemn-cellars/wines/pheasant-run-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/solemn-cellars/wines/"
+    ],
+    "spring-valley-vineyard": [
+        "https://wallawalla.guides.winefolly.com/wineries/spring-valley-vineyard/wines/uriah-red-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/spring-valley-vineyard/wines/mule-skinner-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/spring-valley-vineyard/wines/katherine-cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/spring-valley-vineyard/wines/sharilee-petit-verdot/",
+        "https://wallawalla.guides.winefolly.com/wineries/spring-valley-vineyard/wines/walla-walla-valley-viognier/",
+        "https://wallawalla.guides.winefolly.com/wineries/spring-valley-vineyard/wines/rose-of-cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/spring-valley-vineyard/wines/"
+    ],
+    "sulei-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/sulei-cellars/wines/roller-girl-jammer-red/",
+        "https://wallawalla.guides.winefolly.com/wineries/sulei-cellars/wines/beet-red-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/sulei-cellars/wines/albarino/",
+        "https://wallawalla.guides.winefolly.com/wineries/sulei-cellars/wines/pinot-gris/",
+        "https://wallawalla.guides.winefolly.com/wineries/sulei-cellars/wines/dena-rae-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/sulei-cellars/wines/"
+    ],
+    "syzygy": [
+        "https://wallawalla.guides.winefolly.com/wineries/syzygy/wines/walla-walla-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/syzygy/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/syzygy/wines/saros/",
+        "https://wallawalla.guides.winefolly.com/wineries/syzygy/wines/red-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/syzygy/wines/"
+    ],
+    "tamarack-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/tamarack-cellars/wines/ciel-du-cheval-red/",
+        "https://wallawalla.guides.winefolly.com/wineries/tamarack-cellars/wines/columbia-valley-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/tamarack-cellars/wines/columbia-valley-cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/tamarack-cellars/wines/columbia-valley-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/tamarack-cellars/wines/firehouse-red/",
+        "https://wallawalla.guides.winefolly.com/wineries/tamarack-cellars/wines/columbia-valley-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/tamarack-cellars/wines/"
+    ],
+    "tertulia-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/tertulia-cellars/wines/whistling-hills-estate-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/tertulia-cellars/wines/ryans-reserve/",
+        "https://wallawalla.guides.winefolly.com/wineries/tertulia-cellars/wines/whistling-hills-viogner/",
+        "https://wallawalla.guides.winefolly.com/wineries/tertulia-cellars/wines/cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/tertulia-cellars/wines/"
+    ],
+    "the-unnamed-series": [
+        "https://wallawalla.guides.winefolly.com/wineries/the-unnamed-series/wines/the-unnamed-series-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/the-unnamed-series/wines/"
+    ],
+    "the-walls": [
+        "https://wallawalla.guides.winefolly.com/wineries/the-walls/wines/gaspard-red-mountain-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/the-walls/wines/mcandrew-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/the-walls/wines/wonderful-nightmare-tempranillo/",
+        "https://wallawalla.guides.winefolly.com/wineries/the-walls/wines/french-creek-vineyard-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/the-walls/wines/stanley-groovy-portuguese-blend/",
+        "https://wallawalla.guides.winefolly.com/wineries/the-walls/wines/ramparts/",
+        "https://wallawalla.guides.winefolly.com/wineries/the-walls/wines/"
+    ],
+    "three-rivers-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/three-rivers-winery/wines/estate-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/three-rivers-winery/wines/artz-vineyard-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/three-rivers-winery/wines/walla-walla-cabernet-sauvignon-seven-hills-vineyard/",
+        "https://wallawalla.guides.winefolly.com/wineries/three-rivers-winery/wines/reserve-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/three-rivers-winery/wines/riesling/",
+        "https://wallawalla.guides.winefolly.com/wineries/three-rivers-winery/wines/bacchus-vineyard-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/three-rivers-winery/wines/"
+    ],
+    "time-direction": [
+        "https://wallawalla.guides.winefolly.com/wineries/time-direction/wines/3l-bruce-etched/",
+        "https://wallawalla.guides.winefolly.com/wineries/time-direction/wines/upupdowndownleftrightleftrightbaselectstart-grenache-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/time-direction/wines/3l-old-school-etched/",
+        "https://wallawalla.guides.winefolly.com/wineries/time-direction/wines/old-school-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/time-direction/wines/space-pants-mourvedre/",
+        "https://wallawalla.guides.winefolly.com/wineries/time-direction/wines/01110011-01111001-01110010-01100001-01101000-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/time-direction/wines/"
+    ],
+    "tranche": [
+        "https://wallawalla.guides.winefolly.com/wineries/tranche/wines/pape/",
+        "https://wallawalla.guides.winefolly.com/wineries/tranche/wines/cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/tranche/wines/syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/tranche/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/tranche/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/tranche/wines/"
+    ],
+    "trust-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/trust-cellars/wines/syrah-cv/",
+        "https://wallawalla.guides.winefolly.com/wineries/trust-cellars/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/trust-cellars/wines/"
+    ],
+    "truthteller-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/truthteller-winery/wines/the-miscreant-project-boldfaced-lie/",
+        "https://wallawalla.guides.winefolly.com/wineries/truthteller-winery/wines/the-madman/",
+        "https://wallawalla.guides.winefolly.com/wineries/truthteller-winery/wines/wisdom/",
+        "https://wallawalla.guides.winefolly.com/wineries/truthteller-winery/wines/the-confidante/",
+        "https://wallawalla.guides.winefolly.com/wineries/truthteller-winery/wines/satire/",
+        "https://wallawalla.guides.winefolly.com/wineries/truthteller-winery/wines/pun/",
+        "https://wallawalla.guides.winefolly.com/wineries/truthteller-winery/wines/"
+    ],
+    "valdemar-estates": [
+        "https://wallawalla.guides.winefolly.com/wineries/valdemar-estates/wines/entre-nosotros-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/valdemar-estates/wines/walla-walla-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/valdemar-estates/wines/blue-mountain-vineyard-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/valdemar-estates/wines/dubrul-vineyard-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/valdemar-estates/wines/stoney-vine-vineyard-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/valdemar-estates/wines/walla-walla-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/valdemar-estates/wines/"
+    ],
+    "va-piano-vineyards": [
+        "https://wallawalla.guides.winefolly.com/wineries/va-piano-vineyards/wines/brunos-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/va-piano-vineyards/wines/estate-cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/va-piano-vineyards/wines/"
+    ],
+    "vital-wines": [
+        "https://wallawalla.guides.winefolly.com/wineries/vital-wines/wines/rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/vital-wines/wines/merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/vital-wines/wines/gratitude/",
+        "https://wallawalla.guides.winefolly.com/wineries/vital-wines/wines/cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/vital-wines/wines/the-given/",
+        "https://wallawalla.guides.winefolly.com/wineries/vital-wines/wines/eritage-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/vital-wines/wines/"
+    ],
+    "waterbrook-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/waterbrook-winery/wines/icon-brut/",
+        "https://wallawalla.guides.winefolly.com/wineries/waterbrook-winery/wines/reserve-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/waterbrook-winery/wines/"
+    ],
+    "watermill-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/watermill-winery/wines/anna-marie-vineyard-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/watermill-winery/wines/walla-walla-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/watermill-winery/wines/chances-r-chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/watermill-winery/wines/estate-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/watermill-winery/wines/hallowed-stones-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/watermill-winery/wines/estate-cabernet-franc/",
+        "https://wallawalla.guides.winefolly.com/wineries/watermill-winery/wines/"
+    ],
+    "waters-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/waters-winery/wines/waterstone-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/waters-winery/wines/prelude/",
+        "https://wallawalla.guides.winefolly.com/wineries/waters-winery/wines/"
+    ],
+    "woodward-canyon-winery": [
+        "https://wallawalla.guides.winefolly.com/wineries/woodward-canyon-winery/wines/estate-reserve/",
+        "https://wallawalla.guides.winefolly.com/wineries/woodward-canyon-winery/wines/old-vines-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/woodward-canyon-winery/wines/40th-anniversary-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/woodward-canyon-winery/wines/estate-reserve-red-wine/",
+        "https://wallawalla.guides.winefolly.com/wineries/woodward-canyon-winery/wines/estate-merlot/",
+        "https://wallawalla.guides.winefolly.com/wineries/woodward-canyon-winery/wines/estate-cabernet-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/woodward-canyon-winery/wines/"
+    ],
+    "yellowhawk": [
+        "https://wallawalla.guides.winefolly.com/wineries/yellowhawk/wines/chardonnay/",
+        "https://wallawalla.guides.winefolly.com/wineries/yellowhawk/wines/2020-bubbles-rose/",
+        "https://wallawalla.guides.winefolly.com/wineries/yellowhawk/wines/estate-cab-sauvignon/",
+        "https://wallawalla.guides.winefolly.com/wineries/yellowhawk/wines/2901-white/",
+        "https://wallawalla.guides.winefolly.com/wineries/yellowhawk/wines/old-vine-chenin-blanc/",
+        "https://wallawalla.guides.winefolly.com/wineries/yellowhawk/wines/rose-of-syrah/",
+        "https://wallawalla.guides.winefolly.com/wineries/yellowhawk/wines/"
+    ],
+    "zerba-cellars": [
+        "https://wallawalla.guides.winefolly.com/wineries/zerba-cellars/wines/wild-white/",
+        "https://wallawalla.guides.winefolly.com/wineries/zerba-cellars/wines/cabernet-sauvignon-rocks/",
+        "https://wallawalla.guides.winefolly.com/wineries/zerba-cellars/wines/barbera/",
+        "https://wallawalla.guides.winefolly.com/wineries/zerba-cellars/wines/grenache/",
+        "https://wallawalla.guides.winefolly.com/wineries/zerba-cellars/wines/equilibrio/",
+        "https://wallawalla.guides.winefolly.com/wineries/zerba-cellars/wines/gsm/",
+        "https://wallawalla.guides.winefolly.com/wineries/zerba-cellars/wines/"
+    ]
+}

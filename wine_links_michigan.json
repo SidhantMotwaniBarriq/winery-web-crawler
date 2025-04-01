@@ -1,0 +1,670 @@
+{
+    "1855-project": [
+        "https://michigan.guides.winefolly.com/wineries/1855-project/wines/merlot-1855-project/",
+        "https://michigan.guides.winefolly.com/wineries/1855-project/wines/auxerrois-1855-project/",
+        "https://michigan.guides.winefolly.com/wineries/1855-project/wines/"
+    ],
+    "3-north-vines": [
+        "https://michigan.guides.winefolly.com/wineries/3-north-vines/wines/semillon-3-north-vines/",
+        "https://michigan.guides.winefolly.com/wineries/3-north-vines/wines/"
+    ],
+    "45-north-vineyard-winery": [
+        "https://michigan.guides.winefolly.com/wineries/45-north-vineyard-winery/wines/unwooded-chardonnay-45-north-vineyard-winery/",
+        "https://michigan.guides.winefolly.com/wineries/45-north-vineyard-winery/wines/pinot-gris-45-north-vineyard-winery/",
+        "https://michigan.guides.winefolly.com/wineries/45-north-vineyard-winery/wines/select-harvest-riesling-45-north-vineyard-winery/",
+        "https://michigan.guides.winefolly.com/wineries/45-north-vineyard-winery/wines/skin-ferment-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/45-north-vineyard-winery/wines/blaufrankisch-45-north-vineyard-winery/",
+        "https://michigan.guides.winefolly.com/wineries/45-north-vineyard-winery/wines/chardonnay-45-north-vineyard-winery/",
+        "https://michigan.guides.winefolly.com/wineries/45-north-vineyard-winery/wines/"
+    ],
+    "achrimere-wines": [
+        "https://michigan.guides.winefolly.com/wineries/achrimere-wines/wines/cm10-estate-chardonnay/",
+        "https://michigan.guides.winefolly.com/wineries/achrimere-wines/wines/em12-estate-pinot-gris/",
+        "https://michigan.guides.winefolly.com/wineries/achrimere-wines/wines/symposium-rose/",
+        "https://michigan.guides.winefolly.com/wineries/achrimere-wines/wines/1971-blanc-de-blancs-sparkling-wine/",
+        "https://michigan.guides.winefolly.com/wineries/achrimere-wines/wines/"
+    ],
+    "amoritas": [
+        "https://michigan.guides.winefolly.com/wineries/amoritas/wines/semi-dry-riesling-amoritas-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/amoritas/wines/chardonnay-amoritas-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/amoritas/wines/fascinator-dry-muscat/",
+        "https://michigan.guides.winefolly.com/wineries/amoritas/wines/pointes-north/",
+        "https://michigan.guides.winefolly.com/wineries/amoritas/wines/happenstance/",
+        "https://michigan.guides.winefolly.com/wineries/amoritas/wines/pinot-blanc-amoritas-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/amoritas/wines/"
+    ],
+    "armand-roth": [
+        "https://michigan.guides.winefolly.com/wineries/armand-roth/wines/prairie-school-pinot-blanc/",
+        "https://michigan.guides.winefolly.com/wineries/armand-roth/wines/auxerrois-left-foot-charley/",
+        "https://michigan.guides.winefolly.com/wineries/armand-roth/wines/late-harvest-riesling-left-foot-charley/",
+        "https://michigan.guides.winefolly.com/wineries/armand-roth/wines/gewurztraminer-left-foot-charley/",
+        "https://michigan.guides.winefolly.com/wineries/armand-roth/wines/swanson-vineyard-blaufrankisch/",
+        "https://michigan.guides.winefolly.com/wineries/armand-roth/wines/luthier/",
+        "https://michigan.guides.winefolly.com/wineries/armand-roth/wines/"
+    ],
+    "aurora-cellars": [
+        "https://michigan.guides.winefolly.com/wineries/aurora-cellars/wines/late-harvest-vignoles-aurora-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/aurora-cellars/wines/blanc-de-blanc-aurora-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/aurora-cellars/wines/barrel-fermented-chardonnay-aurora-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/aurora-cellars/wines/blaufrankisch-aurora-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/aurora-cellars/wines/brut-rose-aurora-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/aurora-cellars/wines/cabernet-franc-aurora-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/aurora-cellars/wines/"
+    ],
+    "baia-estate": [
+        "https://michigan.guides.winefolly.com/wineries/baia-estate/wines/chardonnay-baia-estate/",
+        "https://michigan.guides.winefolly.com/wineries/baia-estate/wines/pinot-grigio-baia-estate/",
+        "https://michigan.guides.winefolly.com/wineries/baia-estate/wines/bubbs/",
+        "https://michigan.guides.winefolly.com/wineries/baia-estate/wines/pinot-noir-willamette-valley/",
+        "https://michigan.guides.winefolly.com/wineries/baia-estate/wines/riesling-baia-estate/",
+        "https://michigan.guides.winefolly.com/wineries/baia-estate/wines/"
+    ],
+    "baroda-founders-wine-cellar": [
+        "https://michigan.guides.winefolly.com/wineries/baroda-founders-wine-cellar/wines/marquette-baroda-founders-wine-cellar/",
+        "https://michigan.guides.winefolly.com/wineries/baroda-founders-wine-cellar/wines/chambourcin-baroda-founders-wine-cellar/",
+        "https://michigan.guides.winefolly.com/wineries/baroda-founders-wine-cellar/wines/vidal-blanc-select-sweet-harvest/",
+        "https://michigan.guides.winefolly.com/wineries/baroda-founders-wine-cellar/wines/luce-del-sole/",
+        "https://michigan.guides.winefolly.com/wineries/baroda-founders-wine-cellar/wines/cabernet-franc-baroda-founders-wine-cellar/",
+        "https://michigan.guides.winefolly.com/wineries/baroda-founders-wine-cellar/wines/chardonnay-baroda-founders-wine-cellar/",
+        "https://michigan.guides.winefolly.com/wineries/baroda-founders-wine-cellar/wines/"
+    ],
+    "bel-lago": [
+        "https://michigan.guides.winefolly.com/wineries/bel-lago/wines/chardonnay-bel-lago/",
+        "https://michigan.guides.winefolly.com/wineries/bel-lago/wines/leelanau-brillante/",
+        "https://michigan.guides.winefolly.com/wineries/bel-lago/wines/auxerrois-brut/",
+        "https://michigan.guides.winefolly.com/wineries/bel-lago/wines/leelanau-primavera/",
+        "https://michigan.guides.winefolly.com/wineries/bel-lago/wines/dry-riesling-bel-lago/",
+        "https://michigan.guides.winefolly.com/wineries/bel-lago/wines/semi-dry-riesling-bel-lago/",
+        "https://michigan.guides.winefolly.com/wineries/bel-lago/wines/"
+    ],
+    "big-little-winery": [
+        "https://michigan.guides.winefolly.com/wineries/big-little-winery/wines/dune-climb/",
+        "https://michigan.guides.winefolly.com/wineries/big-little-winery/wines/treehouse/",
+        "https://michigan.guides.winefolly.com/wineries/big-little-winery/wines/underdog/",
+        "https://michigan.guides.winefolly.com/wineries/big-little-winery/wines/"
+    ],
+    "black-fire-winery": [
+        "https://michigan.guides.winefolly.com/wineries/black-fire-winery/wines/chardonnay-black-fire-winery/",
+        "https://michigan.guides.winefolly.com/wineries/black-fire-winery/wines/"
+    ],
+    "black-star-farms": [
+        "https://michigan.guides.winefolly.com/wineries/black-star-farms/wines/red-house-white/",
+        "https://michigan.guides.winefolly.com/wineries/black-star-farms/wines/arcturos-pinot-noir/",
+        "https://michigan.guides.winefolly.com/wineries/black-star-farms/wines/arcturos-winter-harvest-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/black-star-farms/wines/a-capella-ice-wine/",
+        "https://michigan.guides.winefolly.com/wineries/black-star-farms/wines/arcturos-late-harvest-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/black-star-farms/wines/arcturos-semi-dry-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/black-star-farms/wines/"
+    ],
+    "blu-dot-farm": [
+        "https://michigan.guides.winefolly.com/wineries/blu-dot-farm/wines/unoaked-marquette/",
+        "https://michigan.guides.winefolly.com/wineries/blu-dot-farm/wines/pinot-noir-rose-blu-dot-farm-vineyard/",
+        "https://michigan.guides.winefolly.com/wineries/blu-dot-farm/wines/itasca-blu-dot-farm-vineyard/",
+        "https://michigan.guides.winefolly.com/wineries/blu-dot-farm/wines/party-girl-sparkling-brut/",
+        "https://michigan.guides.winefolly.com/wineries/blu-dot-farm/wines/party-girl-sparkling-rose/",
+        "https://michigan.guides.winefolly.com/wineries/blu-dot-farm/wines/oaked-marquette/",
+        "https://michigan.guides.winefolly.com/wineries/blu-dot-farm/wines/"
+    ],
+    "blustone-vineyards": [
+        "https://michigan.guides.winefolly.com/wineries/blustone-vineyards/wines/late-harvest-riesling-blustone-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/blustone-vineyards/wines/naked-chardonnay/",
+        "https://michigan.guides.winefolly.com/wineries/blustone-vineyards/wines/chardonnay-reserve-blustone-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/blustone-vineyards/wines/latitude/",
+        "https://michigan.guides.winefolly.com/wineries/blustone-vineyards/wines/"
+    ],
+    "boat-house": [
+        "https://michigan.guides.winefolly.com/wineries/boat-house/wines/pinot-grigio-boathouse-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/boat-house/wines/dry-riesling-boathouse-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/boat-house/wines/provemont-white/",
+        "https://michigan.guides.winefolly.com/wineries/boat-house/wines/riesling-boathouse-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/boat-house/wines/cabernet-franc-boathouse-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/boat-house/wines/merlot-boathouse-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/boat-house/wines/"
+    ],
+    "bonobo": [
+        "https://michigan.guides.winefolly.com/wineries/bonobo/wines/fume-blanc-bonobo-winery/",
+        "https://michigan.guides.winefolly.com/wineries/bonobo/wines/pinot-gris-bonobo-winery/",
+        "https://michigan.guides.winefolly.com/wineries/bonobo/wines/chardonnay-barrique/",
+        "https://michigan.guides.winefolly.com/wineries/bonobo/wines/"
+    ],
+    "bos-wine": [
+        "https://michigan.guides.winefolly.com/wineries/bos-wine/wines/deo/",
+        "https://michigan.guides.winefolly.com/wineries/bos-wine/wines/methode-agricole/",
+        "https://michigan.guides.winefolly.com/wineries/bos-wine/wines/riesling-bos-wine/",
+        "https://michigan.guides.winefolly.com/wineries/bos-wine/wines/blaufrankisch-bos-wine/",
+        "https://michigan.guides.winefolly.com/wineries/bos-wine/wines/wishflower/",
+        "https://michigan.guides.winefolly.com/wineries/bos-wine/wines/whole-hearted-pinot-noir/",
+        "https://michigan.guides.winefolly.com/wineries/bos-wine/wines/"
+    ],
+    "bowers-harbor": [
+        "https://michigan.guides.winefolly.com/wineries/bowers-harbor/wines/pinot-grigio-bowers-harbor/",
+        "https://michigan.guides.winefolly.com/wineries/bowers-harbor/wines/chardonnay-rls-reserve/",
+        "https://michigan.guides.winefolly.com/wineries/bowers-harbor/wines/riesling-medium-sweet/",
+        "https://michigan.guides.winefolly.com/wineries/bowers-harbor/wines/riesling-medium-dry/",
+        "https://michigan.guides.winefolly.com/wineries/bowers-harbor/wines/wooded-chardonnay/",
+        "https://michigan.guides.winefolly.com/wineries/bowers-harbor/wines/unwooded-chardonnay-bowers-harbor/",
+        "https://michigan.guides.winefolly.com/wineries/bowers-harbor/wines/"
+    ],
+    "brengman-brothers": [
+        "https://michigan.guides.winefolly.com/wineries/brengman-brothers/wines/sauvignon-blanc-semillon-brengman-brothers/",
+        "https://michigan.guides.winefolly.com/wineries/brengman-brothers/wines/gewurztraminer-brengman-brothers/",
+        "https://michigan.guides.winefolly.com/wineries/brengman-brothers/wines/wild-card-rose/",
+        "https://michigan.guides.winefolly.com/wineries/brengman-brothers/wines/dagudscht-brut-rose/",
+        "https://michigan.guides.winefolly.com/wineries/brengman-brothers/wines/wild-card-xtra-dry/",
+        "https://michigan.guides.winefolly.com/wineries/brengman-brothers/wines/cabernet-sauvignon-brengman-brothers/",
+        "https://michigan.guides.winefolly.com/wineries/brengman-brothers/wines/"
+    ],
+    "brys-estate-vineyard-winery": [
+        "https://michigan.guides.winefolly.com/wineries/brys-estate-vineyard-winery/wines/pinot-grigio-reserve/",
+        "https://michigan.guides.winefolly.com/wineries/brys-estate-vineyard-winery/wines/pinot-blanc-reserve/",
+        "https://michigan.guides.winefolly.com/wineries/brys-estate-vineyard-winery/wines/signature-rose-reserve/",
+        "https://michigan.guides.winefolly.com/wineries/brys-estate-vineyard-winery/wines/pinot-noir-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/brys-estate-vineyard-winery/wines/signature-red-reserve/",
+        "https://michigan.guides.winefolly.com/wineries/brys-estate-vineyard-winery/wines/brys-bubbly/",
+        "https://michigan.guides.winefolly.com/wineries/brys-estate-vineyard-winery/wines/"
+    ],
+    "burgdorf-s-winery": [
+        "https://michigan.guides.winefolly.com/wineries/burgdorf-s-winery/wines/golden-temptaion/",
+        "https://michigan.guides.winefolly.com/wineries/burgdorf-s-winery/wines/frontenac-gris-burgdorf-s-winery/",
+        "https://michigan.guides.winefolly.com/wineries/burgdorf-s-winery/wines/"
+    ],
+    "burrone-family-vineyards-winery": [
+        "https://michigan.guides.winefolly.com/wineries/burrone-family-vineyards-winery/wines/edelweiss-burrone-family-vineyards-winery/",
+        "https://michigan.guides.winefolly.com/wineries/burrone-family-vineyards-winery/wines/sweet-reality-rose/",
+        "https://michigan.guides.winefolly.com/wineries/burrone-family-vineyards-winery/wines/sweet-reality-red/",
+        "https://michigan.guides.winefolly.com/wineries/burrone-family-vineyards-winery/wines/sweet-reality-white/",
+        "https://michigan.guides.winefolly.com/wineries/burrone-family-vineyards-winery/wines/barrel-aged-edelweiss/",
+        "https://michigan.guides.winefolly.com/wineries/burrone-family-vineyards-winery/wines/barrel-aged-frontenac/",
+        "https://michigan.guides.winefolly.com/wineries/burrone-family-vineyards-winery/wines/"
+    ],
+    "cadillac-winery": [
+        "https://michigan.guides.winefolly.com/wineries/cadillac-winery/wines/hy-five/",
+        "https://michigan.guides.winefolly.com/wineries/cadillac-winery/wines/riesling-cadillac-winery/",
+        "https://michigan.guides.winefolly.com/wineries/cadillac-winery/wines/marquette-cadillac-winery/",
+        "https://michigan.guides.winefolly.com/wineries/cadillac-winery/wines/woo-hoo/",
+        "https://michigan.guides.winefolly.com/wineries/cadillac-winery/wines/cassiopeia/",
+        "https://michigan.guides.winefolly.com/wineries/cadillac-winery/wines/petite-pearl-cadillac-winery/",
+        "https://michigan.guides.winefolly.com/wineries/cadillac-winery/wines/"
+    ],
+    "ca-musu": [
+        "https://michigan.guides.winefolly.com/wineries/ca-musu/wines/mandria/",
+        "https://michigan.guides.winefolly.com/wineries/ca-musu/wines/"
+    ],
+    "cellar-1914": [
+        "https://michigan.guides.winefolly.com/wineries/cellar-1914/wines/reminiscence/",
+        "https://michigan.guides.winefolly.com/wineries/cellar-1914/wines/"
+    ],
+    "chateau-aeronautique-winery": [
+        "https://michigan.guides.winefolly.com/wineries/chateau-aeronautique-winery/wines/dry-riesling-chateau-aeronautique-winery/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-aeronautique-winery/wines/"
+    ],
+    "chateau-chantal": [
+        "https://michigan.guides.winefolly.com/wineries/chateau-chantal/wines/late-harvest-riesling-chateau-chantal/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-chantal/wines/estate-ice-wine/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-chantal/wines/celebrate/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-chantal/wines/naughty-red/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-chantal/wines/nice-red/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-chantal/wines/unoaked-chardonnay-chateau-chantal/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-chantal/wines/"
+    ],
+    "chateau-fontaine": [
+        "https://michigan.guides.winefolly.com/wineries/chateau-fontaine/wines/pinot-noir-chateau-fontaine/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-fontaine/wines/"
+    ],
+    "chateau-grand-traverse": [
+        "https://michigan.guides.winefolly.com/wineries/chateau-grand-traverse/wines/dry-riesling-chateau-grand-traverse/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-grand-traverse/wines/pinot-noir-reserve-chateau-grand-traverse/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-grand-traverse/wines/barrel-fermented-chardonnay-chateau-grand-traverse/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-grand-traverse/wines/gamay-noir-reserve/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-grand-traverse/wines/whole-cluster-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/chateau-grand-traverse/wines/"
+    ],
+    "chill-hill-winery": [
+        "https://michigan.guides.winefolly.com/wineries/chill-hill-winery/wines/dry-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/chill-hill-winery/wines/sweet-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/chill-hill-winery/wines/chardonnay/",
+        "https://michigan.guides.winefolly.com/wineries/chill-hill-winery/wines/pinot-gris/",
+        "https://michigan.guides.winefolly.com/wineries/chill-hill-winery/wines/semi-sweet-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/chill-hill-winery/wines/ice-wine/",
+        "https://michigan.guides.winefolly.com/wineries/chill-hill-winery/wines/"
+    ],
+    "ciccone-vineyard-winery": [
+        "https://michigan.guides.winefolly.com/wineries/ciccone-vineyard-winery/wines/blanc-de-noir-ciccone-vineyard-winery/",
+        "https://michigan.guides.winefolly.com/wineries/ciccone-vineyard-winery/wines/dolcetto/",
+        "https://michigan.guides.winefolly.com/wineries/ciccone-vineyard-winery/wines/cabernet-sauvignon-ciccone-vineyard-winery/",
+        "https://michigan.guides.winefolly.com/wineries/ciccone-vineyard-winery/wines/chardonnay-ciccone-vineyard-winery/",
+        "https://michigan.guides.winefolly.com/wineries/ciccone-vineyard-winery/wines/"
+    ],
+    "cody-kresta-vineyard-and-winery": [
+        "https://michigan.guides.winefolly.com/wineries/cody-kresta-vineyard-and-winery/wines/estate-cabernet-franc-cody-kresta-vineyard-and-winery/",
+        "https://michigan.guides.winefolly.com/wineries/cody-kresta-vineyard-and-winery/wines/skeet-s-revelry/",
+        "https://michigan.guides.winefolly.com/wineries/cody-kresta-vineyard-and-winery/wines/marsanne-roussanne/",
+        "https://michigan.guides.winefolly.com/wineries/cody-kresta-vineyard-and-winery/wines/"
+    ],
+    "contessa-wine-cellars": [
+        "https://michigan.guides.winefolly.com/wineries/contessa-wine-cellars/wines/pinot-grigio-contessa-wine-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/contessa-wine-cellars/wines/divino/",
+        "https://michigan.guides.winefolly.com/wineries/contessa-wine-cellars/wines/chardonnay-reserve-contessa-wine-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/contessa-wine-cellars/wines/bianco-bello/",
+        "https://michigan.guides.winefolly.com/wineries/contessa-wine-cellars/wines/cabernet-franc-contessa-wine-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/contessa-wine-cellars/wines/merlot-contessa-wine-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/contessa-wine-cellars/wines/"
+    ],
+    "crazy-vines-winery": [
+        "https://michigan.guides.winefolly.com/wineries/crazy-vines-winery/wines/fireside-red/",
+        "https://michigan.guides.winefolly.com/wineries/crazy-vines-winery/wines/marquette-crazy-vines-winery/",
+        "https://michigan.guides.winefolly.com/wineries/crazy-vines-winery/wines/"
+    ],
+    "crooked-vine-vineyard-winery": [
+        "https://michigan.guides.winefolly.com/wineries/crooked-vine-vineyard-winery/wines/frontenac-gris-crooked-vine-vineyard-winery/",
+        "https://michigan.guides.winefolly.com/wineries/crooked-vine-vineyard-winery/wines/g-g-reserve-marquette/",
+        "https://michigan.guides.winefolly.com/wineries/crooked-vine-vineyard-winery/wines/g-g-reserve-petite-pearl/",
+        "https://michigan.guides.winefolly.com/wineries/crooked-vine-vineyard-winery/wines/"
+    ],
+    "dablon-vineyards-and-winery": [
+        "https://michigan.guides.winefolly.com/wineries/dablon-vineyards-and-winery/wines/pinot-grigio-dablon-vineyards-and-winery/",
+        "https://michigan.guides.winefolly.com/wineries/dablon-vineyards-and-winery/wines/carmenere/",
+        "https://michigan.guides.winefolly.com/wineries/dablon-vineyards-and-winery/wines/tempranillo-tannat-blend/",
+        "https://michigan.guides.winefolly.com/wineries/dablon-vineyards-and-winery/wines/tannat-dablon-vineyards-and-winery/",
+        "https://michigan.guides.winefolly.com/wineries/dablon-vineyards-and-winery/wines/cabernet-franc-dablon-vineyards-and-winery/",
+        "https://michigan.guides.winefolly.com/wineries/dablon-vineyards-and-winery/wines/estate-red-blend/",
+        "https://michigan.guides.winefolly.com/wineries/dablon-vineyards-and-winery/wines/"
+    ],
+    "detroit-vineyards": [
+        "https://michigan.guides.winefolly.com/wineries/detroit-vineyards/wines/pinot-noir-detroit-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/detroit-vineyards/wines/blaufrankisch-detroit-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/detroit-vineyards/wines/dry-riesling-detroit-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/detroit-vineyards/wines/viognier-detroit-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/detroit-vineyards/wines/cabernet-franc-detroit-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/detroit-vineyards/wines/merlot-detroit-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/detroit-vineyards/wines/"
+    ],
+    "dizzy-daisy-winery-and-vineyard": [
+        "https://michigan.guides.winefolly.com/wineries/dizzy-daisy-winery-and-vineyard/wines/rhubarb/",
+        "https://michigan.guides.winefolly.com/wineries/dizzy-daisy-winery-and-vineyard/wines/riesling-sweet/",
+        "https://michigan.guides.winefolly.com/wineries/dizzy-daisy-winery-and-vineyard/wines/gewurtztraminer/",
+        "https://michigan.guides.winefolly.com/wineries/dizzy-daisy-winery-and-vineyard/wines/oopsie-daisy/",
+        "https://michigan.guides.winefolly.com/wineries/dizzy-daisy-winery-and-vineyard/wines/red-currant-sweet/",
+        "https://michigan.guides.winefolly.com/wineries/dizzy-daisy-winery-and-vineyard/wines/dizzy-blonde/",
+        "https://michigan.guides.winefolly.com/wineries/dizzy-daisy-winery-and-vineyard/wines/"
+    ],
+    "domaine-berrien-wine-cellars": [
+        "https://michigan.guides.winefolly.com/wineries/domaine-berrien-wine-cellars/wines/sauvignon-blanc-domaine-berrien-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/domaine-berrien-wine-cellars/wines/chardonnay-domaine-berrien-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/domaine-berrien-wine-cellars/wines/marsanne/",
+        "https://michigan.guides.winefolly.com/wineries/domaine-berrien-wine-cellars/wines/viognier-domaine-berrien-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/domaine-berrien-wine-cellars/wines/traminette-domaine-berrien-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/domaine-berrien-wine-cellars/wines/vignoles-domaine-berrien-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/domaine-berrien-wine-cellars/wines/"
+    ],
+    "dune-bird-winery": [
+        "https://michigan.guides.winefolly.com/wineries/dune-bird-winery/wines/rose-dune-bird-winery/",
+        "https://michigan.guides.winefolly.com/wineries/dune-bird-winery/wines/pinot-grigio-dune-bird-winery/",
+        "https://michigan.guides.winefolly.com/wineries/dune-bird-winery/wines/unoaked-chardonnay-dune-bird-winery/",
+        "https://michigan.guides.winefolly.com/wineries/dune-bird-winery/wines/dry-riesling-dune-bird-winery/",
+        "https://michigan.guides.winefolly.com/wineries/dune-bird-winery/wines/av8/",
+        "https://michigan.guides.winefolly.com/wineries/dune-bird-winery/wines/pie-chaser/",
+        "https://michigan.guides.winefolly.com/wineries/dune-bird-winery/wines/"
+    ],
+    "fenn-valley-vineyards": [
+        "https://michigan.guides.winefolly.com/wineries/fenn-valley-vineyards/wines/sauvignon-blanc-fenn-valley-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/fenn-valley-vineyards/wines/classic-port/",
+        "https://michigan.guides.winefolly.com/wineries/fenn-valley-vineyards/wines/dry-riesling-fenn-valley-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/fenn-valley-vineyards/wines/traminette-fenn-valley-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/fenn-valley-vineyards/wines/classic-chardonnay-fenn-valley-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/fenn-valley-vineyards/wines/true-chardonnay/",
+        "https://michigan.guides.winefolly.com/wineries/fenn-valley-vineyards/wines/"
+    ],
+    "flying-otter-winery": [
+        "https://michigan.guides.winefolly.com/wineries/flying-otter-winery/wines/curmudgeon-s-red/",
+        "https://michigan.guides.winefolly.com/wineries/flying-otter-winery/wines/bazinga/",
+        "https://michigan.guides.winefolly.com/wineries/flying-otter-winery/wines/"
+    ],
+    "folklor-wine-cider": [
+        "https://michigan.guides.winefolly.com/wineries/folklor-wine-cider/wines/lake-swimmer/",
+        "https://michigan.guides.winefolly.com/wineries/folklor-wine-cider/wines/zweigelt-nouveau/",
+        "https://michigan.guides.winefolly.com/wineries/folklor-wine-cider/wines/day-trip/",
+        "https://michigan.guides.winefolly.com/wineries/folklor-wine-cider/wines/ice-box-red/",
+        "https://michigan.guides.winefolly.com/wineries/folklor-wine-cider/wines/bramble/",
+        "https://michigan.guides.winefolly.com/wineries/folklor-wine-cider/wines/row-boat/",
+        "https://michigan.guides.winefolly.com/wineries/folklor-wine-cider/wines/"
+    ],
+    "french-valley": [
+        "https://michigan.guides.winefolly.com/wineries/french-valley/wines/chardonnay-unoaked-french-valley-vineyard/",
+        "https://michigan.guides.winefolly.com/wineries/french-valley/wines/rhyme-white/",
+        "https://michigan.guides.winefolly.com/wineries/french-valley/wines/melodie-dry-rose/",
+        "https://michigan.guides.winefolly.com/wineries/french-valley/wines/sweet-riesling-french-valley-vineyard/",
+        "https://michigan.guides.winefolly.com/wineries/french-valley/wines/sweet-razze/",
+        "https://michigan.guides.winefolly.com/wineries/french-valley/wines/jubilee-french-valley-vineyard/",
+        "https://michigan.guides.winefolly.com/wineries/french-valley/wines/"
+    ],
+    "gilchrist-farm": [
+        "https://michigan.guides.winefolly.com/wineries/gilchrist-farm/wines/bonnie-bubbly/",
+        "https://michigan.guides.winefolly.com/wineries/gilchrist-farm/wines/late-harvest-riesling-gilchrist-farm/",
+        "https://michigan.guides.winefolly.com/wineries/gilchrist-farm/wines/rose-gilchrist-farm/",
+        "https://michigan.guides.winefolly.com/wineries/gilchrist-farm/wines/thistle-glen/",
+        "https://michigan.guides.winefolly.com/wineries/gilchrist-farm/wines/red-deer-red/",
+        "https://michigan.guides.winefolly.com/wineries/gilchrist-farm/wines/2021-pinot-grigio/",
+        "https://michigan.guides.winefolly.com/wineries/gilchrist-farm/wines/"
+    ],
+    "glass-creek-winery": [
+        "https://michigan.guides.winefolly.com/wineries/glass-creek-winery/wines/sangiovese-glass-creek-winery/",
+        "https://michigan.guides.winefolly.com/wineries/glass-creek-winery/wines/"
+    ],
+    "golden-muse-winery": [
+        "https://michigan.guides.winefolly.com/wineries/golden-muse-winery/wines/apollinaire-syrah/",
+        "https://michigan.guides.winefolly.com/wineries/golden-muse-winery/wines/alfred-jarry-unoaked-chardonnay/",
+        "https://michigan.guides.winefolly.com/wineries/golden-muse-winery/wines/josephine-baker-dry-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/golden-muse-winery/wines/pierrot-pinot-grigio/",
+        "https://michigan.guides.winefolly.com/wineries/golden-muse-winery/wines/afternoon-of-a-faun-dry-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/golden-muse-winery/wines/fernande-muscat-ottonel/",
+        "https://michigan.guides.winefolly.com/wineries/golden-muse-winery/wines/"
+    ],
+    "good-harbor-vineyards": [
+        "https://michigan.guides.winefolly.com/wineries/good-harbor-vineyards/wines/pinot-noir-rose-good-harbor-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/good-harbor-vineyards/wines/pinot-noir-zweigelt/",
+        "https://michigan.guides.winefolly.com/wineries/good-harbor-vineyards/wines/unoaked-chardonnay/",
+        "https://michigan.guides.winefolly.com/wineries/good-harbor-vineyards/wines/dry-riesling-good-harbor-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/good-harbor-vineyards/wines/late-harvest-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/good-harbor-vineyards/wines/coastal-red/",
+        "https://michigan.guides.winefolly.com/wineries/good-harbor-vineyards/wines/"
+    ],
+    "greenbird": [
+        "https://michigan.guides.winefolly.com/wineries/greenbird/wines/ridge-red-merlot/",
+        "https://michigan.guides.winefolly.com/wineries/greenbird/wines/traminette-vignoles/",
+        "https://michigan.guides.winefolly.com/wineries/greenbird/wines/pinot-gris-green-bird/",
+        "https://michigan.guides.winefolly.com/wineries/greenbird/wines/unoaked-chardonnay-green-bird/",
+        "https://michigan.guides.winefolly.com/wineries/greenbird/wines/concord-rose/",
+        "https://michigan.guides.winefolly.com/wineries/greenbird/wines/"
+    ],
+    "hawthorne": [
+        "https://michigan.guides.winefolly.com/wineries/hawthorne/wines/select-harvest-riesling-hawthorne/",
+        "https://michigan.guides.winefolly.com/wineries/hawthorne/wines/barrel-reserve-auxerrois/",
+        "https://michigan.guides.winefolly.com/wineries/hawthorne/wines/"
+    ],
+    "heronmark": [
+        "https://michigan.guides.winefolly.com/wineries/heronmark/wines/vidal-blanc-heronmark/",
+        "https://michigan.guides.winefolly.com/wineries/heronmark/wines/carbonic-marquette/",
+        "https://michigan.guides.winefolly.com/wineries/heronmark/wines/traminette-heronmark/",
+        "https://michigan.guides.winefolly.com/wineries/heronmark/wines/cherry-wine/",
+        "https://michigan.guides.winefolly.com/wineries/heronmark/wines/maple-wine/",
+        "https://michigan.guides.winefolly.com/wineries/heronmark/wines/prairie/",
+        "https://michigan.guides.winefolly.com/wineries/heronmark/wines/"
+    ],
+    "karma-vista-vineyards": [
+        "https://michigan.guides.winefolly.com/wineries/karma-vista-vineyards/wines/grand-sun-syrah/",
+        "https://michigan.guides.winefolly.com/wineries/karma-vista-vineyards/wines/"
+    ],
+    "lake-michigan-vintners": [
+        "https://michigan.guides.winefolly.com/wineries/lake-michigan-vintners/wines/traminette-lake-michigan-vintners/",
+        "https://michigan.guides.winefolly.com/wineries/lake-michigan-vintners/wines/cabernet-sauvignon-lake-michigan-vintners/",
+        "https://michigan.guides.winefolly.com/wineries/lake-michigan-vintners/wines/"
+    ],
+    "laurentide-wine": [
+        "https://michigan.guides.winefolly.com/wineries/laurentide-wine/wines/bubble-de-bubble-trouble/",
+        "https://michigan.guides.winefolly.com/wineries/laurentide-wine/wines/sauvignon-blanc-laurentide-wine/",
+        "https://michigan.guides.winefolly.com/wineries/laurentide-wine/wines/fume-blanc-laurentide-wine/",
+        "https://michigan.guides.winefolly.com/wineries/laurentide-wine/wines/reserve-meritage/",
+        "https://michigan.guides.winefolly.com/wineries/laurentide-wine/wines/amaizing-red/",
+        "https://michigan.guides.winefolly.com/wineries/laurentide-wine/wines/reserve-chardonnay-laurentide-wine/",
+        "https://michigan.guides.winefolly.com/wineries/laurentide-wine/wines/"
+    ],
+    "lawton-ridge-winery": [
+        "https://michigan.guides.winefolly.com/wineries/lawton-ridge-winery/wines/something-blue/",
+        "https://michigan.guides.winefolly.com/wineries/lawton-ridge-winery/wines/semi-sweet-pinot-grigio/",
+        "https://michigan.guides.winefolly.com/wineries/lawton-ridge-winery/wines/traminette-lawton-ridge-winery/",
+        "https://michigan.guides.winefolly.com/wineries/lawton-ridge-winery/wines/petillant-chardonnay/",
+        "https://michigan.guides.winefolly.com/wineries/lawton-ridge-winery/wines/rose-lawton-ridge-winery/",
+        "https://michigan.guides.winefolly.com/wineries/lawton-ridge-winery/wines/pinot-grigio-lawton-ridge-winery/",
+        "https://michigan.guides.winefolly.com/wineries/lawton-ridge-winery/wines/"
+    ],
+    "lazy-ballerina-winery": [
+        "https://michigan.guides.winefolly.com/wineries/lazy-ballerina-winery/wines/grigio-on-the-green/",
+        "https://michigan.guides.winefolly.com/wineries/lazy-ballerina-winery/wines/pinot-grigio-lazy-ballerina-winery/",
+        "https://michigan.guides.winefolly.com/wineries/lazy-ballerina-winery/wines/cabernet-franc-reserve-lazy-ballerina-winery/",
+        "https://michigan.guides.winefolly.com/wineries/lazy-ballerina-winery/wines/merlot-lazy-ballerina-winery/",
+        "https://michigan.guides.winefolly.com/wineries/lazy-ballerina-winery/wines/"
+    ],
+    "leelanau-cellars": [
+        "https://michigan.guides.winefolly.com/wineries/leelanau-cellars/wines/lakeshore-collection-pinot-grigio/",
+        "https://michigan.guides.winefolly.com/wineries/leelanau-cellars/wines/baco-noir-leelanau-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/leelanau-cellars/wines/witches-brew/",
+        "https://michigan.guides.winefolly.com/wineries/leelanau-cellars/wines/meritage-leelanau-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/leelanau-cellars/wines/dry-riesling-leelanau-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/leelanau-cellars/wines/gewurztraminer-leelanau-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/leelanau-cellars/wines/"
+    ],
+    "leigh-s-garden-winery": [
+        "https://michigan.guides.winefolly.com/wineries/leigh-s-garden-winery/wines/gathering/",
+        "https://michigan.guides.winefolly.com/wineries/leigh-s-garden-winery/wines/"
+    ],
+    "lemon-creek-winery": [
+        "https://michigan.guides.winefolly.com/wineries/lemon-creek-winery/wines/pinot-grigio-lemon-creek-winery/",
+        "https://michigan.guides.winefolly.com/wineries/lemon-creek-winery/wines/"
+    ],
+    "mackinaw-trail-winery": [
+        "https://michigan.guides.winefolly.com/wineries/mackinaw-trail-winery/wines/marquette-mackinaw-trail-winery/",
+        "https://michigan.guides.winefolly.com/wineries/mackinaw-trail-winery/wines/gruner-veltliner-mackinaw-trail-winery/",
+        "https://michigan.guides.winefolly.com/wineries/mackinaw-trail-winery/wines/lollipop-candied-red/",
+        "https://michigan.guides.winefolly.com/wineries/mackinaw-trail-winery/wines/cabernet-franc-mackinaw-trail-winery/",
+        "https://michigan.guides.winefolly.com/wineries/mackinaw-trail-winery/wines/bourbon-barrel-aged-marquette/",
+        "https://michigan.guides.winefolly.com/wineries/mackinaw-trail-winery/wines/malbec-mackinaw-trail-winery/",
+        "https://michigan.guides.winefolly.com/wineries/mackinaw-trail-winery/wines/"
+    ],
+    "mawby": [
+        "https://michigan.guides.winefolly.com/wineries/mawby/wines/blanc-mawby/",
+        "https://michigan.guides.winefolly.com/wineries/mawby/wines/redd/",
+        "https://michigan.guides.winefolly.com/wineries/mawby/wines/grace/",
+        "https://michigan.guides.winefolly.com/wineries/mawby/wines/mille-2017/",
+        "https://michigan.guides.winefolly.com/wineries/mawby/wines/toast/",
+        "https://michigan.guides.winefolly.com/wineries/mawby/wines/detroit/",
+        "https://michigan.guides.winefolly.com/wineries/mawby/wines/"
+    ],
+    "michigan-wine-company": [
+        "https://michigan.guides.winefolly.com/wineries/michigan-wine-company/wines/pinot-gris-michigan-wine-company/",
+        "https://michigan.guides.winefolly.com/wineries/michigan-wine-company/wines/cab-xl/",
+        "https://michigan.guides.winefolly.com/wineries/michigan-wine-company/wines/"
+    ],
+    "modales-wines-ooba-wines": [
+        "https://michigan.guides.winefolly.com/wineries/modales-wines-ooba-wines/wines/herman-pinot-noir/",
+        "https://michigan.guides.winefolly.com/wineries/modales-wines-ooba-wines/wines/sauvignon-blanc-modales/",
+        "https://michigan.guides.winefolly.com/wineries/modales-wines-ooba-wines/wines/lamastus-red-blend/",
+        "https://michigan.guides.winefolly.com/wineries/modales-wines-ooba-wines/wines/nouveau/",
+        "https://michigan.guides.winefolly.com/wineries/modales-wines-ooba-wines/wines/lone-silo-gruner-veltliner/",
+        "https://michigan.guides.winefolly.com/wineries/modales-wines-ooba-wines/wines/la-esperanza-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/modales-wines-ooba-wines/wines/"
+    ],
+    "neu-cellars": [
+        "https://michigan.guides.winefolly.com/wineries/neu-cellars/wines/crispy/",
+        "https://michigan.guides.winefolly.com/wineries/neu-cellars/wines/sparkling-riesling-neu-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/neu-cellars/wines/"
+    ],
+    "nitz-wines": [
+        "https://michigan.guides.winefolly.com/wineries/nitz-wines/wines/nitz-family-vineyards-south-facing-red/",
+        "https://michigan.guides.winefolly.com/wineries/nitz-wines/wines/nitz-reserve-vidal-blanc-ice-wine/",
+        "https://michigan.guides.winefolly.com/wineries/nitz-wines/wines/nitz-reserve-chambourcin-ice-wine/",
+        "https://michigan.guides.winefolly.com/wineries/nitz-wines/wines/"
+    ],
+    "northern-sun-winery": [
+        "https://michigan.guides.winefolly.com/wineries/northern-sun-winery/wines/lacrescent-northern-sun-winery/",
+        "https://michigan.guides.winefolly.com/wineries/northern-sun-winery/wines/"
+    ],
+    "peninsula-cellars": [
+        "https://michigan.guides.winefolly.com/wineries/peninsula-cellars/wines/cabernet-franc-reserve-peninsula-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/peninsula-cellars/wines/"
+    ],
+    "pere-marquette-winery": [
+        "https://michigan.guides.winefolly.com/wineries/pere-marquette-winery/wines/pinot-noir-rose-pere-marquette-winery/",
+        "https://michigan.guides.winefolly.com/wineries/pere-marquette-winery/wines/hunter-red/",
+        "https://michigan.guides.winefolly.com/wineries/pere-marquette-winery/wines/cabernet-franc-pere-marquette-winery/",
+        "https://michigan.guides.winefolly.com/wineries/pere-marquette-winery/wines/badger-white/",
+        "https://michigan.guides.winefolly.com/wineries/pere-marquette-winery/wines/cayuga-white-pere-marquette-winery/",
+        "https://michigan.guides.winefolly.com/wineries/pere-marquette-winery/wines/"
+    ],
+    "petoskey-farms-vineyard-winery": [
+        "https://michigan.guides.winefolly.com/wineries/petoskey-farms-vineyard-winery/wines/pinot-gris-petoskey-farms-vineyard-winery/",
+        "https://michigan.guides.winefolly.com/wineries/petoskey-farms-vineyard-winery/wines/pinot-noir-petoskey-farms-vineyard-winery/",
+        "https://michigan.guides.winefolly.com/wineries/petoskey-farms-vineyard-winery/wines/estate-marquette-rose/",
+        "https://michigan.guides.winefolly.com/wineries/petoskey-farms-vineyard-winery/wines/estate-frontenac-blanc/",
+        "https://michigan.guides.winefolly.com/wineries/petoskey-farms-vineyard-winery/wines/estate-first-crush-rose/",
+        "https://michigan.guides.winefolly.com/wineries/petoskey-farms-vineyard-winery/wines/estate-reserve-marquette/",
+        "https://michigan.guides.winefolly.com/wineries/petoskey-farms-vineyard-winery/wines/"
+    ],
+    "pond-hill-farm": [
+        "https://michigan.guides.winefolly.com/wineries/pond-hill-farm/wines/st-pepin/",
+        "https://michigan.guides.winefolly.com/wineries/pond-hill-farm/wines/marquette-pond-hill-farm/",
+        "https://michigan.guides.winefolly.com/wineries/pond-hill-farm/wines/"
+    ],
+    "rove-estate": [
+        "https://michigan.guides.winefolly.com/wineries/rove-estate/wines/cabernet-franc-merlot/",
+        "https://michigan.guides.winefolly.com/wineries/rove-estate/wines/pinot-noir-rove-winery-at-the-gallagher-estate/",
+        "https://michigan.guides.winefolly.com/wineries/rove-estate/wines/sauvignon-blanc-rove-winery-at-the-gallagher-estate/",
+        "https://michigan.guides.winefolly.com/wineries/rove-estate/wines/cabernet-franc-rove-winery-at-the-gallagher-estate/",
+        "https://michigan.guides.winefolly.com/wineries/rove-estate/wines/ragaire-rose/",
+        "https://michigan.guides.winefolly.com/wineries/rove-estate/wines/fiona-runda/",
+        "https://michigan.guides.winefolly.com/wineries/rove-estate/wines/"
+    ],
+    "rudbeckia-winery": [
+        "https://michigan.guides.winefolly.com/wineries/rudbeckia-winery/wines/sumptuous-sweet-red/",
+        "https://michigan.guides.winefolly.com/wineries/rudbeckia-winery/wines/blushing-moscato/",
+        "https://michigan.guides.winefolly.com/wineries/rudbeckia-winery/wines/riesling-rudbeckia-winery-and-burnt-marshmallow-distillery/",
+        "https://michigan.guides.winefolly.com/wineries/rudbeckia-winery/wines/unoaked-chardonnay-rudbeckia-winery-and-burnt-marshmallow-brewstillery/",
+        "https://michigan.guides.winefolly.com/wineries/rudbeckia-winery/wines/estate-la-crescent-rudbeckia-winery-and-burnt-marshmallow-distillery/",
+        "https://michigan.guides.winefolly.com/wineries/rudbeckia-winery/wines/belle-rouge-red-cuvee/",
+        "https://michigan.guides.winefolly.com/wineries/rudbeckia-winery/wines/"
+    ],
+    "seasons-of-the-north-winery": [
+        "https://michigan.guides.winefolly.com/wineries/seasons-of-the-north-winery/wines/river-s-edge/",
+        "https://michigan.guides.winefolly.com/wineries/seasons-of-the-north-winery/wines/"
+    ],
+    "shady-land-cellars": [
+        "https://michigan.guides.winefolly.com/wineries/shady-land-cellars/wines/sparkling-riesling-shady-lane-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/shady-land-cellars/wines/blaufrankisch/",
+        "https://michigan.guides.winefolly.com/wineries/shady-land-cellars/wines/late-harvest-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/shady-land-cellars/wines/gewurztraminer-shady-lane-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/shady-land-cellars/wines/riesling-shady-lane-cellars/",
+        "https://michigan.guides.winefolly.com/wineries/shady-land-cellars/wines/pomeranz/",
+        "https://michigan.guides.winefolly.com/wineries/shady-land-cellars/wines/"
+    ],
+    "soul-squeeze": [
+        "https://michigan.guides.winefolly.com/wineries/soul-squeeze/wines/parable-petite-sirah/",
+        "https://michigan.guides.winefolly.com/wineries/soul-squeeze/wines/dr-redtail-cabernet-franc/",
+        "https://michigan.guides.winefolly.com/wineries/soul-squeeze/wines/beautiful-feet-syrah/",
+        "https://michigan.guides.winefolly.com/wineries/soul-squeeze/wines/good-fight-pinot-gris/",
+        "https://michigan.guides.winefolly.com/wineries/soul-squeeze/wines/the-gruve/",
+        "https://michigan.guides.winefolly.com/wineries/soul-squeeze/wines/good-friend-pinot-meunier/",
+        "https://michigan.guides.winefolly.com/wineries/soul-squeeze/wines/"
+    ],
+    "spruce-ridge-vineyards": [
+        "https://michigan.guides.winefolly.com/wineries/spruce-ridge-vineyards/wines/red-slipper/",
+        "https://michigan.guides.winefolly.com/wineries/spruce-ridge-vineyards/wines/hubbard-lake-red/",
+        "https://michigan.guides.winefolly.com/wineries/spruce-ridge-vineyards/wines/east-bay-dry/",
+        "https://michigan.guides.winefolly.com/wineries/spruce-ridge-vineyards/wines/marquette-spruce-ridge-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/spruce-ridge-vineyards/wines/sunrise-side-sweet/",
+        "https://michigan.guides.winefolly.com/wineries/spruce-ridge-vineyards/wines/up-north-rose/",
+        "https://michigan.guides.winefolly.com/wineries/spruce-ridge-vineyards/wines/"
+    ],
+    "st-julian-wine-company": [
+        "https://michigan.guides.winefolly.com/wineries/st-julian-wine-company/wines/braganini-reserve-cinsault/",
+        "https://michigan.guides.winefolly.com/wineries/st-julian-wine-company/wines/braganini-reserve-marquette/",
+        "https://michigan.guides.winefolly.com/wineries/st-julian-wine-company/wines/braganini-reserve-traminette/",
+        "https://michigan.guides.winefolly.com/wineries/st-julian-wine-company/wines/braganini-reserve-winemaker-s-series-dmc/",
+        "https://michigan.guides.winefolly.com/wineries/st-julian-wine-company/wines/braganini-reserve-viognier/",
+        "https://michigan.guides.winefolly.com/wineries/st-julian-wine-company/wines/braganini-reserve-chambourcin/",
+        "https://michigan.guides.winefolly.com/wineries/st-julian-wine-company/wines/"
+    ],
+    "stoney-ridge-winery": [
+        "https://michigan.guides.winefolly.com/wineries/stoney-ridge-winery/wines/pinot-grigio-stoney-ridge-winery/",
+        "https://michigan.guides.winefolly.com/wineries/stoney-ridge-winery/wines/marquette-stoney-ridge-winery/",
+        "https://michigan.guides.winefolly.com/wineries/stoney-ridge-winery/wines/"
+    ],
+    "stranger-wine-company": [
+        "https://michigan.guides.winefolly.com/wineries/stranger-wine-company/wines/viognier-stranger-wine-company/",
+        "https://michigan.guides.winefolly.com/wineries/stranger-wine-company/wines/pinot-noir-stranger-wine-company/",
+        "https://michigan.guides.winefolly.com/wineries/stranger-wine-company/wines/cabernet-franc-stranger-wine-company/",
+        "https://michigan.guides.winefolly.com/wineries/stranger-wine-company/wines/gruner-veltliner-stranger-wine-company/",
+        "https://michigan.guides.winefolly.com/wineries/stranger-wine-company/wines/"
+    ],
+    "tabone": [
+        "https://michigan.guides.winefolly.com/wineries/tabone/wines/unoaked-chardonnay-tabone-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/tabone/wines/bubbly-riesling-tabone-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/tabone/wines/gewurztraminer-tabone-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/tabone/wines/bubbly-chardonnay/",
+        "https://michigan.guides.winefolly.com/wineries/tabone/wines/rose-of-pinot-meunier/",
+        "https://michigan.guides.winefolly.com/wineries/tabone/wines/estate-semi-sweet-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/tabone/wines/"
+    ],
+    "the-winery-north-of-12": [
+        "https://michigan.guides.winefolly.com/wineries/the-winery-north-of-12/wines/wine-1-the-winery-north-of-12/",
+        "https://michigan.guides.winefolly.com/wineries/the-winery-north-of-12/wines/white-willow/",
+        "https://michigan.guides.winefolly.com/wineries/the-winery-north-of-12/wines/"
+    ],
+    "twelve-corners-vineyards": [
+        "https://michigan.guides.winefolly.com/wineries/twelve-corners-vineyards/wines/merlot-12-corners-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/twelve-corners-vineyards/wines/beach-cottage-rose/",
+        "https://michigan.guides.winefolly.com/wineries/twelve-corners-vineyards/wines/pinot-noir-12-corners-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/twelve-corners-vineyards/wines/chardonnay-reserve-12-corners-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/twelve-corners-vineyards/wines/"
+    ],
+    "two-k-farms": [
+        "https://michigan.guides.winefolly.com/wineries/two-k-farms/wines/bubbly-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/two-k-farms/wines/2021-pinot-gris/",
+        "https://michigan.guides.winefolly.com/wineries/two-k-farms/wines/"
+    ],
+    "two-lads": [
+        "https://michigan.guides.winefolly.com/wineries/two-lads/wines/cabernet-franc-blanc/",
+        "https://michigan.guides.winefolly.com/wineries/two-lads/wines/reserve-cabernet-franc-two-lads/",
+        "https://michigan.guides.winefolly.com/wineries/two-lads/wines/riesling-2l-estate-vineyard/",
+        "https://michigan.guides.winefolly.com/wineries/two-lads/wines/rose-of-pinot-gris/",
+        "https://michigan.guides.winefolly.com/wineries/two-lads/wines/pinot-noir-d-cuvee/",
+        "https://michigan.guides.winefolly.com/wineries/two-lads/wines/pinot-noir-two-lads/",
+        "https://michigan.guides.winefolly.com/wineries/two-lads/wines/"
+    ],
+    "vandemark-farm-and-vineyard": [
+        "https://michigan.guides.winefolly.com/wineries/vandemark-farm-and-vineyard/wines/leon-millot-vandemark-farm-and-vineyard/",
+        "https://michigan.guides.winefolly.com/wineries/vandemark-farm-and-vineyard/wines/"
+    ],
+    "verterra-winery": [
+        "https://michigan.guides.winefolly.com/wineries/verterra-winery/wines/chaos-red/",
+        "https://michigan.guides.winefolly.com/wineries/verterra-winery/wines/dry-riesling-verterra-winery/",
+        "https://michigan.guides.winefolly.com/wineries/verterra-winery/wines/chaos-sparkling-rose/",
+        "https://michigan.guides.winefolly.com/wineries/verterra-winery/wines/reserve-red-cab-merlot/",
+        "https://michigan.guides.winefolly.com/wineries/verterra-winery/wines/pinot-noir-verterra-winery/",
+        "https://michigan.guides.winefolly.com/wineries/verterra-winery/wines/rose-of-merlot-verterra-winery/",
+        "https://michigan.guides.winefolly.com/wineries/verterra-winery/wines/"
+    ],
+    "villa-mari-vineyards": [
+        "https://michigan.guides.winefolly.com/wineries/villa-mari-vineyards/wines/sezession-sparkling-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/villa-mari-vineyards/wines/simplicissimus-sparkling-riesling/",
+        "https://michigan.guides.winefolly.com/wineries/villa-mari-vineyards/wines/troglodyte-rosso/",
+        "https://michigan.guides.winefolly.com/wineries/villa-mari-vineyards/wines/troglodyte-bianco/",
+        "https://michigan.guides.winefolly.com/wineries/villa-mari-vineyards/wines/malvasia-ambra/",
+        "https://michigan.guides.winefolly.com/wineries/villa-mari-vineyards/wines/chardonnay-mari-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/villa-mari-vineyards/wines/"
+    ],
+    "vineyard-2121": [
+        "https://michigan.guides.winefolly.com/wineries/vineyard-2121/wines/cabernet-sauvignon-vineyard-2121/",
+        "https://michigan.guides.winefolly.com/wineries/vineyard-2121/wines/"
+    ],
+    "white-pine-winery-vineyards": [
+        "https://michigan.guides.winefolly.com/wineries/white-pine-winery-vineyards/wines/traminette-white-pine-winery-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/white-pine-winery-vineyards/wines/cabernet-franc-reserve-white-pine-winery-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/white-pine-winery-vineyards/wines/pinot-noir-white-pine-winery-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/white-pine-winery-vineyards/wines/cabernet-franc-sophies-vineyard/",
+        "https://michigan.guides.winefolly.com/wineries/white-pine-winery-vineyards/wines/pinot-grigio-white-pine-winery-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/white-pine-winery-vineyards/wines/riesling-reserve-white-pine-winery-vineyards/",
+        "https://michigan.guides.winefolly.com/wineries/white-pine-winery-vineyards/wines/"
+    ],
+    "wine-pirati": [
+        "https://michigan.guides.winefolly.com/wineries/wine-pirati/wines/bottino/",
+        "https://michigan.guides.winefolly.com/wineries/wine-pirati/wines/capitano/",
+        "https://michigan.guides.winefolly.com/wineries/wine-pirati/wines/flotta/",
+        "https://michigan.guides.winefolly.com/wineries/wine-pirati/wines/ovest/",
+        "https://michigan.guides.winefolly.com/wineries/wine-pirati/wines/delizia/",
+        "https://michigan.guides.winefolly.com/wineries/wine-pirati/wines/"
+    ],
+    "wyncroft-marland": [
+        "https://michigan.guides.winefolly.com/wineries/wyncroft-marland/wines/wyncroft-shou/",
+        "https://michigan.guides.winefolly.com/wineries/wyncroft-marland/wines/"
+    ]
+}

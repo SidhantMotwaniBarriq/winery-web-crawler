@@ -1,0 +1,896 @@
+{
+    "20-deep-winery": [
+        "https://newyork.guides.winefolly.com/wineries/20-deep-winery/wines/chardonnay-main-stay/",
+        "https://newyork.guides.winefolly.com/wineries/20-deep-winery/wines/riesling-medium-sweet-all-star/",
+        "https://newyork.guides.winefolly.com/wineries/20-deep-winery/wines/dry-riesling-all-star/",
+        "https://newyork.guides.winefolly.com/wineries/20-deep-winery/wines/gruner-veltliner-mainstay/",
+        "https://newyork.guides.winefolly.com/wineries/20-deep-winery/wines/semi-dry-riesling-mainstay/",
+        "https://newyork.guides.winefolly.com/wineries/20-deep-winery/wines/dry-rose-of-gamay-noir/",
+        "https://newyork.guides.winefolly.com/wineries/20-deep-winery/wines/"
+    ],
+    "21-brix-winery": [
+        "https://newyork.guides.winefolly.com/wineries/21-brix-winery/wines/wine-0-21-brix-winery/",
+        "https://newyork.guides.winefolly.com/wineries/21-brix-winery/wines/"
+    ],
+    "adirondack-winery": [
+        "https://newyork.guides.winefolly.com/wineries/adirondack-winery/wines/wine-4-adirondack-winery/",
+        "https://newyork.guides.winefolly.com/wineries/adirondack-winery/wines/wine-8-adirondack-winery/",
+        "https://newyork.guides.winefolly.com/wineries/adirondack-winery/wines/wine-6-adirondack-winery/",
+        "https://newyork.guides.winefolly.com/wineries/adirondack-winery/wines/wine-15-adirondack-winery/",
+        "https://newyork.guides.winefolly.com/wineries/adirondack-winery/wines/wine-7-adirondack-winery/",
+        "https://newyork.guides.winefolly.com/wineries/adirondack-winery/wines/wine-9-adirondack-winery/",
+        "https://newyork.guides.winefolly.com/wineries/adirondack-winery/wines/"
+    ],
+    "agness-wine-cellars": [
+        "https://newyork.guides.winefolly.com/wineries/agness-wine-cellars/wines/finger-lakes-semi-dry-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/agness-wine-cellars/wines/"
+    ],
+    "airy-acres-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/airy-acres-vineyard/wines/wine-1-airy-acres-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/airy-acres-vineyard/wines/wine-2-airy-acres-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/airy-acres-vineyard/wines/wine-6-airy-acres-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/airy-acres-vineyard/wines/wine-3-airy-acres-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/airy-acres-vineyard/wines/wine-4-airy-acres-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/airy-acres-vineyard/wines/wine-0-airy-acres-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/airy-acres-vineyard/wines/"
+    ],
+    "altamont-vineyard-winery": [
+        "https://newyork.guides.winefolly.com/wineries/altamont-vineyard-winery/wines/edelweiss-altamont-vineyard-winery/",
+        "https://newyork.guides.winefolly.com/wineries/altamont-vineyard-winery/wines/leon-millot/",
+        "https://newyork.guides.winefolly.com/wineries/altamont-vineyard-winery/wines/"
+    ],
+    "americana-vineyards-winery": [
+        "https://newyork.guides.winefolly.com/wineries/americana-vineyards-winery/wines/chardonnay-americana-vineyards-winery/",
+        "https://newyork.guides.winefolly.com/wineries/americana-vineyards-winery/wines/"
+    ],
+    "anthony-road-wine-company": [
+        "https://newyork.guides.winefolly.com/wineries/anthony-road-wine-company/wines/semi-dry-riesling-anthony-road-wine-company/",
+        "https://newyork.guides.winefolly.com/wineries/anthony-road-wine-company/wines/pinot-gris-barrel-ferment/",
+        "https://newyork.guides.winefolly.com/wineries/anthony-road-wine-company/wines/wine-3-anthony-road-wine-company/",
+        "https://newyork.guides.winefolly.com/wineries/anthony-road-wine-company/wines/blanc-de-noir-anthony-road-wine-company/",
+        "https://newyork.guides.winefolly.com/wineries/anthony-road-wine-company/wines/rose-of-lemberger/",
+        "https://newyork.guides.winefolly.com/wineries/anthony-road-wine-company/wines/pinot-noir-anthony-road-wine-company/",
+        "https://newyork.guides.winefolly.com/wineries/anthony-road-wine-company/wines/"
+    ],
+    "applewood-winery": [
+        "https://newyork.guides.winefolly.com/wineries/applewood-winery/wines/seyval-chardonnay-reserve/",
+        "https://newyork.guides.winefolly.com/wineries/applewood-winery/wines/wine-1-applewood-winery/",
+        "https://newyork.guides.winefolly.com/wineries/applewood-winery/wines/"
+    ],
+    "arrowhead-spring-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/arrowhead-spring-vineyards/wines/wine-0-arrowhead-spring-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/arrowhead-spring-vineyards/wines/"
+    ],
+    "atwater-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/atwater-vineyards/wines/wine-3-atwater-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/atwater-vineyards/wines/wine-0-atwater-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/atwater-vineyards/wines/wine-1-atwater-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/atwater-vineyards/wines/wine-2-atwater-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/atwater-vineyards/wines/"
+    ],
+    "autumn-s-harvest-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/autumn-s-harvest-vineyard/wines/frontenac-gris/",
+        "https://newyork.guides.winefolly.com/wineries/autumn-s-harvest-vineyard/wines/"
+    ],
+    "barnstormer-winery": [
+        "https://newyork.guides.winefolly.com/wineries/barnstormer-winery/wines/semi-dry-riesling-barnstormer-winery/",
+        "https://newyork.guides.winefolly.com/wineries/barnstormer-winery/wines/nosedive-port/",
+        "https://newyork.guides.winefolly.com/wineries/barnstormer-winery/wines/n6679p-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/barnstormer-winery/wines/jenny-red/",
+        "https://newyork.guides.winefolly.com/wineries/barnstormer-winery/wines/altitude/",
+        "https://newyork.guides.winefolly.com/wineries/barnstormer-winery/wines/sangiovese-rose-barnstormer-winery/",
+        "https://newyork.guides.winefolly.com/wineries/barnstormer-winery/wines/"
+    ],
+    "becker-farms": [
+        "https://newyork.guides.winefolly.com/wineries/becker-farms/wines/wine-1-becker-farms/",
+        "https://newyork.guides.winefolly.com/wineries/becker-farms/wines/wine-0-becker-farms/",
+        "https://newyork.guides.winefolly.com/wineries/becker-farms/wines/"
+    ],
+    "bedell-north-fork": [
+        "https://newyork.guides.winefolly.com/wineries/bedell-north-fork/wines/wine-2-bedell-cellers/",
+        "https://newyork.guides.winefolly.com/wineries/bedell-north-fork/wines/viognier-bedell-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/bedell-north-fork/wines/albarino-bedell-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/bedell-north-fork/wines/sauvignon-blanc-bedell-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/bedell-north-fork/wines/verdejo/",
+        "https://newyork.guides.winefolly.com/wineries/bedell-north-fork/wines/melon-de-bourgogne/",
+        "https://newyork.guides.winefolly.com/wineries/bedell-north-fork/wines/"
+    ],
+    "bet-the-farm-winery": [
+        "https://newyork.guides.winefolly.com/wineries/bet-the-farm-winery/wines/wine-0-bet-the-farm-winery/",
+        "https://newyork.guides.winefolly.com/wineries/bet-the-farm-winery/wines/"
+    ],
+    "billsboro-vineyards-and-winery": [
+        "https://newyork.guides.winefolly.com/wineries/billsboro-vineyards-and-winery/wines/wine-2-billsboro-vineyards-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/billsboro-vineyards-and-winery/wines/wine-8-billsboro-vineyards-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/billsboro-vineyards-and-winery/wines/wine-9-billsboro-vineyards-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/billsboro-vineyards-and-winery/wines/wine-10-billsboro-vineyards-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/billsboro-vineyards-and-winery/wines/wine-4-billsboro-vineyards-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/billsboro-vineyards-and-winery/wines/wine-0-billsboro-vineyards-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/billsboro-vineyards-and-winery/wines/"
+    ],
+    "black-willow-winery": [
+        "https://newyork.guides.winefolly.com/wineries/black-willow-winery/wines/cabernet-sauvignon-black-willow-winery/",
+        "https://newyork.guides.winefolly.com/wineries/black-willow-winery/wines/estate-diamond/",
+        "https://newyork.guides.winefolly.com/wineries/black-willow-winery/wines/tree-ology-red/",
+        "https://newyork.guides.winefolly.com/wineries/black-willow-winery/wines/chardonnay-black-willow-winery/",
+        "https://newyork.guides.winefolly.com/wineries/black-willow-winery/wines/black-widow-berry/",
+        "https://newyork.guides.winefolly.com/wineries/black-willow-winery/wines/"
+    ],
+    "boom-point-winery": [
+        "https://newyork.guides.winefolly.com/wineries/boom-point-winery/wines/on-point-red/",
+        "https://newyork.guides.winefolly.com/wineries/boom-point-winery/wines/on-point-white/",
+        "https://newyork.guides.winefolly.com/wineries/boom-point-winery/wines/apple-jack/",
+        "https://newyork.guides.winefolly.com/wineries/boom-point-winery/wines/boomer-blanc/",
+        "https://newyork.guides.winefolly.com/wineries/boom-point-winery/wines/riesling-traminette/",
+        "https://newyork.guides.winefolly.com/wineries/boom-point-winery/wines/chardonnay-boom-point-winery/",
+        "https://newyork.guides.winefolly.com/wineries/boom-point-winery/wines/"
+    ],
+    "boundary-breaks-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/boundary-breaks-vineyard/wines/gewurztraminer-medium-dry/",
+        "https://newyork.guides.winefolly.com/wineries/boundary-breaks-vineyard/wines/riesling-extra-dry-90/",
+        "https://newyork.guides.winefolly.com/wineries/boundary-breaks-vineyard/wines/riesling-ice-wine/",
+        "https://newyork.guides.winefolly.com/wineries/boundary-breaks-vineyard/wines/rose-dry/",
+        "https://newyork.guides.winefolly.com/wineries/boundary-breaks-vineyard/wines/rose-bubbly/",
+        "https://newyork.guides.winefolly.com/wineries/boundary-breaks-vineyard/wines/wine-2-boundary-breaks-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/boundary-breaks-vineyard/wines/"
+    ],
+    "bramley-wood": [
+        "https://newyork.guides.winefolly.com/wineries/bramley-wood/wines/game-bird-red/",
+        "https://newyork.guides.winefolly.com/wineries/bramley-wood/wines/iv-blaufrankisch/",
+        "https://newyork.guides.winefolly.com/wineries/bramley-wood/wines/wine-2-heron-hill-winery/",
+        "https://newyork.guides.winefolly.com/wineries/bramley-wood/wines/reserve-morris-red/",
+        "https://newyork.guides.winefolly.com/wineries/bramley-wood/wines/wine-0-heron-hill-winery/",
+        "https://newyork.guides.winefolly.com/wineries/bramley-wood/wines/ingle-vineyard-cabernet-franc/",
+        "https://newyork.guides.winefolly.com/wineries/bramley-wood/wines/"
+    ],
+    "bridgehampton-breeze-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/bridgehampton-breeze-vineyards/wines/barrel-ferment-sauvignon-blanc/",
+        "https://newyork.guides.winefolly.com/wineries/bridgehampton-breeze-vineyards/wines/"
+    ],
+    "bridge-lane-wine": [
+        "https://newyork.guides.winefolly.com/wineries/bridge-lane-wine/wines/wine-1-bridge-lane-wine/",
+        "https://newyork.guides.winefolly.com/wineries/bridge-lane-wine/wines/wine-2-bridge-lane-wine/",
+        "https://newyork.guides.winefolly.com/wineries/bridge-lane-wine/wines/wine-4-bridge-lane-wine/",
+        "https://newyork.guides.winefolly.com/wineries/bridge-lane-wine/wines/wine-3-bridge-lane-wine/",
+        "https://newyork.guides.winefolly.com/wineries/bridge-lane-wine/wines/wine-5-bridge-lane-wine/",
+        "https://newyork.guides.winefolly.com/wineries/bridge-lane-wine/wines/wine-0-bridge-lane-wine/",
+        "https://newyork.guides.winefolly.com/wineries/bridge-lane-wine/wines/"
+    ],
+    "bright-leaf": [
+        "https://newyork.guides.winefolly.com/wineries/bright-leaf/wines/pinot-noir-bright-leaf-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/bright-leaf/wines/cabernet-franc-bright-leaf-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/bright-leaf/wines/wine-0-bright-leaf/",
+        "https://newyork.guides.winefolly.com/wineries/bright-leaf/wines/"
+    ],
+    "brotherhood-winery": [
+        "https://newyork.guides.winefolly.com/wineries/brotherhood-winery/wines/wine-0-brotherhood-winery/",
+        "https://newyork.guides.winefolly.com/wineries/brotherhood-winery/wines/"
+    ],
+    "bruynswick-winery": [
+        "https://newyork.guides.winefolly.com/wineries/bruynswick-winery/wines/cabernet-franc-bruynswick-winery/",
+        "https://newyork.guides.winefolly.com/wineries/bruynswick-winery/wines/riesling-bruynswick-winery/",
+        "https://newyork.guides.winefolly.com/wineries/bruynswick-winery/wines/2020-chardonnay/",
+        "https://newyork.guides.winefolly.com/wineries/bruynswick-winery/wines/wine-0-bruynswick-winery/",
+        "https://newyork.guides.winefolly.com/wineries/bruynswick-winery/wines/"
+    ],
+    "bully-hill-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/bully-hill-vineyards/wines/wine-2-bully-hill-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/bully-hill-vineyards/wines/wine-3-bully-hill-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/bully-hill-vineyards/wines/cabernet-franc-bully-hill-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/bully-hill-vineyards/wines/goat-white-wine/",
+        "https://newyork.guides.winefolly.com/wineries/bully-hill-vineyards/wines/sweet-walter-pineapple/",
+        "https://newyork.guides.winefolly.com/wineries/bully-hill-vineyards/wines/bass-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/bully-hill-vineyards/wines/"
+    ],
+    "buttonwood-grove-winery": [
+        "https://newyork.guides.winefolly.com/wineries/buttonwood-grove-winery/wines/riesling-bubbly/",
+        "https://newyork.guides.winefolly.com/wineries/buttonwood-grove-winery/wines/cabernet-franc-reserve-buttonwood-grove-winery/",
+        "https://newyork.guides.winefolly.com/wineries/buttonwood-grove-winery/wines/chardonnay-stainless/",
+        "https://newyork.guides.winefolly.com/wineries/buttonwood-grove-winery/wines/unoaked-chardonnay/",
+        "https://newyork.guides.winefolly.com/wineries/buttonwood-grove-winery/wines/riesling-buttonwood-grove-winery/",
+        "https://newyork.guides.winefolly.com/wineries/buttonwood-grove-winery/wines/wine-5-buttonwood-grove-winery/",
+        "https://newyork.guides.winefolly.com/wineries/buttonwood-grove-winery/wines/"
+    ],
+    "castello-di-borghese": [
+        "https://newyork.guides.winefolly.com/wineries/castello-di-borghese/wines/wine-1-castello-di-borghese/",
+        "https://newyork.guides.winefolly.com/wineries/castello-di-borghese/wines/wine-0-castello-di-borghese/",
+        "https://newyork.guides.winefolly.com/wineries/castello-di-borghese/wines/"
+    ],
+    "channing-daughters": [
+        "https://newyork.guides.winefolly.com/wineries/channing-daughters/wines/l-enfant-sauvage-chardonnay/",
+        "https://newyork.guides.winefolly.com/wineries/channing-daughters/wines/ramato/",
+        "https://newyork.guides.winefolly.com/wineries/channing-daughters/wines/ribolla-gialla/",
+        "https://newyork.guides.winefolly.com/wineries/channing-daughters/wines/"
+    ],
+    "chateau-lafayette-reneau": [
+        "https://newyork.guides.winefolly.com/wineries/chateau-lafayette-reneau/wines/wine-1-chateau-lafayette-reneau/",
+        "https://newyork.guides.winefolly.com/wineries/chateau-lafayette-reneau/wines/wine-0-chateau-lafayette-reneau/",
+        "https://newyork.guides.winefolly.com/wineries/chateau-lafayette-reneau/wines/"
+    ],
+    "chateau-niagara-winery": [
+        "https://newyork.guides.winefolly.com/wineries/chateau-niagara-winery/wines/wine-0-chateau-niagara-winery/",
+        "https://newyork.guides.winefolly.com/wineries/chateau-niagara-winery/wines/pinot-noir-chateau-niagara-winery/",
+        "https://newyork.guides.winefolly.com/wineries/chateau-niagara-winery/wines/cabernet-franc-chateau-niagara-winery/",
+        "https://newyork.guides.winefolly.com/wineries/chateau-niagara-winery/wines/trinity-red-blend/",
+        "https://newyork.guides.winefolly.com/wineries/chateau-niagara-winery/wines/kagor/",
+        "https://newyork.guides.winefolly.com/wineries/chateau-niagara-winery/wines/blanc-de-blanc-chateau-niagara-winery/",
+        "https://newyork.guides.winefolly.com/wineries/chateau-niagara-winery/wines/"
+    ],
+    "chronicle-wines": [
+        "https://newyork.guides.winefolly.com/wineries/chronicle-wines/wines/wine-0-chronicle-wines/",
+        "https://newyork.guides.winefolly.com/wineries/chronicle-wines/wines/wine-1-chronicle-wines/",
+        "https://newyork.guides.winefolly.com/wineries/chronicle-wines/wines/brooklyn-oenology-social-club-red/",
+        "https://newyork.guides.winefolly.com/wineries/chronicle-wines/wines/brooklyn-oenology-social-club-white/",
+        "https://newyork.guides.winefolly.com/wineries/chronicle-wines/wines/brooklyn-oenology-social-club-ping/",
+        "https://newyork.guides.winefolly.com/wineries/chronicle-wines/wines/saltbird-cellars-harbinger/",
+        "https://newyork.guides.winefolly.com/wineries/chronicle-wines/wines/"
+    ],
+    "cjs-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/cjs-vineyards/wines/estate-cabernet-frand/",
+        "https://newyork.guides.winefolly.com/wineries/cjs-vineyards/wines/"
+    ],
+    "clover-pond-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/clover-pond-vineyard/wines/wine-0-clover-pond-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/clover-pond-vineyard/wines/wine-2-clover-pond-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/clover-pond-vineyard/wines/wine-1-clover-pond-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/clover-pond-vineyard/wines/"
+    ],
+    "clovis-point-vineyard-and-winery": [
+        "https://newyork.guides.winefolly.com/wineries/clovis-point-vineyard-and-winery/wines/sauvignon-blanc-clovis-point-vineyard-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/clovis-point-vineyard-and-winery/wines/"
+    ],
+    "croteaux": [
+        "https://newyork.guides.winefolly.com/wineries/croteaux/wines/niagara-knapp-winery/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux/wines/ruby-port-knapp-winery/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux/wines/serenity/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux/wines/brut-sparkling-knapp-winery/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux/wines/syrah-knapp-winery/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux/wines/siegerrebe/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux/wines/"
+    ],
+    "croteaux-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/croteaux-vineyards/wines/sparkling-chloe-sauvignon-blanc-rose/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux-vineyards/wines/sparkling-merlot-cuvee-rose/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux-vineyards/wines/sparkling-jolie-cabernet-franc-rose/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux-vineyards/wines/merlot-3-rose/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux-vineyards/wines/merlot-sauvage-rose/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux-vineyards/wines/merlot-181-rose/",
+        "https://newyork.guides.winefolly.com/wineries/croteaux-vineyards/wines/"
+    ],
+    "damiani-wine-cellars": [
+        "https://newyork.guides.winefolly.com/wineries/damiani-wine-cellars/wines/wine-17-damiani-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/damiani-wine-cellars/wines/wine-16-damiani-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/damiani-wine-cellars/wines/wine-2-damiani-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/damiani-wine-cellars/wines/wine-7-damiani-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/damiani-wine-cellars/wines/wine-5-damiani-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/damiani-wine-cellars/wines/wine-6-damiani-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/damiani-wine-cellars/wines/"
+    ],
+    "domaine-leseurre": [
+        "https://newyork.guides.winefolly.com/wineries/domaine-leseurre/wines/wine-0-domaine-leseurre-winery/",
+        "https://newyork.guides.winefolly.com/wineries/domaine-leseurre/wines/2021-chardonnay-unoaked/",
+        "https://newyork.guides.winefolly.com/wineries/domaine-leseurre/wines/dry-riesling-domaine-leseurre-winery/",
+        "https://newyork.guides.winefolly.com/wineries/domaine-leseurre/wines/chardonnay-barrel-select-domaine-leseurre-winery/",
+        "https://newyork.guides.winefolly.com/wineries/domaine-leseurre/wines/"
+    ],
+    "dr-konstantin-frank-wines": [
+        "https://newyork.guides.winefolly.com/wineries/dr-konstantin-frank-wines/wines/wine-6-dr-konstantin-frank-winery/",
+        "https://newyork.guides.winefolly.com/wineries/dr-konstantin-frank-wines/wines/wine-7-dr-konstantin-frank-winery/",
+        "https://newyork.guides.winefolly.com/wineries/dr-konstantin-frank-wines/wines/wine-15-dr-konstantin-frank-winery/",
+        "https://newyork.guides.winefolly.com/wineries/dr-konstantin-frank-wines/wines/wine-14-dr-konstantin-frank-winery/",
+        "https://newyork.guides.winefolly.com/wineries/dr-konstantin-frank-wines/wines/wine-22-dr-konstantin-frank-winery/",
+        "https://newyork.guides.winefolly.com/wineries/dr-konstantin-frank-wines/wines/wine-24-dr-konstantin-frank-winery/",
+        "https://newyork.guides.winefolly.com/wineries/dr-konstantin-frank-wines/wines/"
+    ],
+    "duck-walk-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/duck-walk-vineyards/wines/blue-duck-merlot/",
+        "https://newyork.guides.winefolly.com/wineries/duck-walk-vineyards/wines/"
+    ],
+    "eagle-crest-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/eagle-crest-vineyards/wines/cabernet-franc-eagle-crest-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/eagle-crest-vineyards/wines/"
+    ],
+    "eminence-road-farm-winery": [
+        "https://newyork.guides.winefolly.com/wineries/eminence-road-farm-winery/wines/pinot-noir-elizabeth-s-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/eminence-road-farm-winery/wines/"
+    ],
+    "evanem-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/evanem-vineyards/wines/classic-rose/",
+        "https://newyork.guides.winefolly.com/wineries/evanem-vineyards/wines/sauvignon-blanc-ev-em-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/evanem-vineyards/wines/classic-pinot-gris/",
+        "https://newyork.guides.winefolly.com/wineries/evanem-vineyards/wines/"
+    ],
+    "five-sons-winery": [
+        "https://newyork.guides.winefolly.com/wineries/five-sons-winery/wines/escape/",
+        "https://newyork.guides.winefolly.com/wineries/five-sons-winery/wines/"
+    ],
+    "fjord-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/fjord-vineyards/wines/albarino-fjord-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/fjord-vineyards/wines/merlot-fjord-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/fjord-vineyards/wines/"
+    ],
+    "four-maples-vineyard-and-winery": [
+        "https://newyork.guides.winefolly.com/wineries/four-maples-vineyard-and-winery/wines/wine-0-four-maples-vineyard-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/four-maples-vineyard-and-winery/wines/wine-1-four-maples-vineyard-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/four-maples-vineyard-and-winery/wines/"
+    ],
+    "fox-run-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/fox-run-vineyards/wines/cabernet-franc-fox-run-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/fox-run-vineyards/wines/wine-16-fox-run-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/fox-run-vineyards/wines/wine-17-fox-run-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/fox-run-vineyards/wines/wine-20-fox-run-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/fox-run-vineyards/wines/wine-21-fox-run-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/fox-run-vineyards/wines/wine-15-fox-run-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/fox-run-vineyards/wines/"
+    ],
+    "frontenac-point": [
+        "https://newyork.guides.winefolly.com/wineries/frontenac-point/wines/wine-0-frontenac-point-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/frontenac-point/wines/"
+    ],
+    "fulkerson-wine-cellars": [
+        "https://newyork.guides.winefolly.com/wineries/fulkerson-wine-cellars/wines/wine-18-fulkerson-winery/",
+        "https://newyork.guides.winefolly.com/wineries/fulkerson-wine-cellars/wines/wine-19-fulkerson-winery/",
+        "https://newyork.guides.winefolly.com/wineries/fulkerson-wine-cellars/wines/wine-20-fulkerson-winery/",
+        "https://newyork.guides.winefolly.com/wineries/fulkerson-wine-cellars/wines/wine-7-fulkerson-winery/",
+        "https://newyork.guides.winefolly.com/wineries/fulkerson-wine-cellars/wines/wine-6-fulkerson-winery/",
+        "https://newyork.guides.winefolly.com/wineries/fulkerson-wine-cellars/wines/wine-15-fulkerson-winery/",
+        "https://newyork.guides.winefolly.com/wineries/fulkerson-wine-cellars/wines/"
+    ],
+    "galway-rock-winery": [
+        "https://newyork.guides.winefolly.com/wineries/galway-rock-winery/wines/galway-rock-petit-verdot/",
+        "https://newyork.guides.winefolly.com/wineries/galway-rock-winery/wines/galway-rock-merlot-malbec/",
+        "https://newyork.guides.winefolly.com/wineries/galway-rock-winery/wines/galway-rock-rose/",
+        "https://newyork.guides.winefolly.com/wineries/galway-rock-winery/wines/galway-rock-chardonnay-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/galway-rock-winery/wines/saratoga-sparkling-co-rose/",
+        "https://newyork.guides.winefolly.com/wineries/galway-rock-winery/wines/"
+    ],
+    "glenora-wine-cellars": [
+        "https://newyork.guides.winefolly.com/wineries/glenora-wine-cellars/wines/gg-s-reserve/",
+        "https://newyork.guides.winefolly.com/wineries/glenora-wine-cellars/wines/brut/",
+        "https://newyork.guides.winefolly.com/wineries/glenora-wine-cellars/wines/chase-s-reserve/",
+        "https://newyork.guides.winefolly.com/wineries/glenora-wine-cellars/wines/"
+    ],
+    "grindstone-island-winery": [
+        "https://newyork.guides.winefolly.com/wineries/grindstone-island-winery/wines/baco-noir/",
+        "https://newyork.guides.winefolly.com/wineries/grindstone-island-winery/wines/prairie-star/",
+        "https://newyork.guides.winefolly.com/wineries/grindstone-island-winery/wines/"
+    ],
+    "harbes-family-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/harbes-family-vineyard/wines/hallock-lane-merlot/",
+        "https://newyork.guides.winefolly.com/wineries/harbes-family-vineyard/wines/"
+    ],
+    "hazlitts-1852-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/hazlitts-1852-vineyards/wines/pink-cat/",
+        "https://newyork.guides.winefolly.com/wineries/hazlitts-1852-vineyards/wines/white-cat/",
+        "https://newyork.guides.winefolly.com/wineries/hazlitts-1852-vineyards/wines/red-cat/",
+        "https://newyork.guides.winefolly.com/wineries/hazlitts-1852-vineyards/wines/red-cat-dark/",
+        "https://newyork.guides.winefolly.com/wineries/hazlitts-1852-vineyards/wines/bramble-berry/",
+        "https://newyork.guides.winefolly.com/wineries/hazlitts-1852-vineyards/wines/red-cat-sangria/",
+        "https://newyork.guides.winefolly.com/wineries/hazlitts-1852-vineyards/wines/"
+    ],
+    "heart-hands-wine-company": [
+        "https://newyork.guides.winefolly.com/wineries/heart-hands-wine-company/wines/mo-chuisle-pinot-noir/",
+        "https://newyork.guides.winefolly.com/wineries/heart-hands-wine-company/wines/"
+    ],
+    "hermann-j-wiemer-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/hermann-j-wiemer-vineyard/wines/wine-0-hermann-j-wiemer-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/hermann-j-wiemer-vineyard/wines/wine-2-hermann-j-wiemer-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/hermann-j-wiemer-vineyard/wines/wine-3-hermann-j-wiemer-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/hermann-j-wiemer-vineyard/wines/wine-4-hermann-j-wiemer-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/hermann-j-wiemer-vineyard/wines/wine-5-hermann-j-wiemer-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/hermann-j-wiemer-vineyard/wines/wine-1-hermann-j-wiemer-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/hermann-j-wiemer-vineyard/wines/"
+    ],
+    "hillick-hobbs-estate": [
+        "https://newyork.guides.winefolly.com/wineries/hillick-hobbs-estate/wines/wine-0-hillick-hobbs-estate/",
+        "https://newyork.guides.winefolly.com/wineries/hillick-hobbs-estate/wines/"
+    ],
+    "hosmer-estate-winery": [
+        "https://newyork.guides.winefolly.com/wineries/hosmer-estate-winery/wines/wine-2-hosmer-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/hosmer-estate-winery/wines/wine-6-hosmer-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/hosmer-estate-winery/wines/wine-1-hosmer-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/hosmer-estate-winery/wines/wine-0-hosmer-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/hosmer-estate-winery/wines/wine-3-hosmer-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/hosmer-estate-winery/wines/semi-dry-riesling-hosmer-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/hosmer-estate-winery/wines/"
+    ],
+    "hummingbird-hills-winery": [
+        "https://newyork.guides.winefolly.com/wineries/hummingbird-hills-winery/wines/wine-0-hummingbird-hills-winery/",
+        "https://newyork.guides.winefolly.com/wineries/hummingbird-hills-winery/wines/"
+    ],
+    "hunt-country-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/hunt-country-vineyards/wines/remedy/",
+        "https://newyork.guides.winefolly.com/wineries/hunt-country-vineyards/wines/traminette/",
+        "https://newyork.guides.winefolly.com/wineries/hunt-country-vineyards/wines/valvin-muscat/",
+        "https://newyork.guides.winefolly.com/wineries/hunt-country-vineyards/wines/dolce-di-moscato/",
+        "https://newyork.guides.winefolly.com/wineries/hunt-country-vineyards/wines/cabernet-franc/",
+        "https://newyork.guides.winefolly.com/wineries/hunt-country-vineyards/wines/"
+    ],
+    "idol-ridge-winery": [
+        "https://newyork.guides.winefolly.com/wineries/idol-ridge-winery/wines/wine-0-idol-ridge-winery/",
+        "https://newyork.guides.winefolly.com/wineries/idol-ridge-winery/wines/wine-1-idol-ridge-winery/",
+        "https://newyork.guides.winefolly.com/wineries/idol-ridge-winery/wines/"
+    ],
+    "inspire-moore-winery": [
+        "https://newyork.guides.winefolly.com/wineries/inspire-moore-winery/wines/rhythm-dry-gruener-veltliner/",
+        "https://newyork.guides.winefolly.com/wineries/inspire-moore-winery/wines/"
+    ],
+    "izzo-s-white-barn-winery": [
+        "https://newyork.guides.winefolly.com/wineries/izzo-s-white-barn-winery/wines/wine-0-izzo-s-white-barn-winery/",
+        "https://newyork.guides.winefolly.com/wineries/izzo-s-white-barn-winery/wines/"
+    ],
+    "jamesport-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/jamesport-vineyards/wines/estate-sauvignon-blanc-jamesport-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/jamesport-vineyards/wines/"
+    ],
+    "jason-s-vineyard-s": [
+        "https://newyork.guides.winefolly.com/wineries/jason-s-vineyard-s/wines/merlot-jason-s-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/jason-s-vineyard-s/wines/"
+    ],
+    "jd-wine-cellars": [
+        "https://newyork.guides.winefolly.com/wineries/jd-wine-cellars/wines/wine-0-jd-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/jd-wine-cellars/wines/"
+    ],
+    "johnson-estate-winery": [
+        "https://newyork.guides.winefolly.com/wineries/johnson-estate-winery/wines/dry-riesling-johnson-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/johnson-estate-winery/wines/wine-1-johnson-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/johnson-estate-winery/wines/wine-2-johnson-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/johnson-estate-winery/wines/seyval-blanc/",
+        "https://newyork.guides.winefolly.com/wineries/johnson-estate-winery/wines/semi-dry-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/johnson-estate-winery/wines/vidal-blanc/",
+        "https://newyork.guides.winefolly.com/wineries/johnson-estate-winery/wines/"
+    ],
+    "kelloggsville-farm-winery": [
+        "https://newyork.guides.winefolly.com/wineries/kelloggsville-farm-winery/wines/sparkling-chancellor-rose/",
+        "https://newyork.guides.winefolly.com/wineries/kelloggsville-farm-winery/wines/dry-ny-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/kelloggsville-farm-winery/wines/"
+    ],
+    "keuka-spring-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/keuka-spring-vineyards/wines/apres/",
+        "https://newyork.guides.winefolly.com/wineries/keuka-spring-vineyards/wines/"
+    ],
+    "lakewood-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/lakewood-vineyards/wines/wine-0-lakewood-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/lakewood-vineyards/wines/wine-1-lakewood-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/lakewood-vineyards/wines/bubbly-candeo/",
+        "https://newyork.guides.winefolly.com/wineries/lakewood-vineyards/wines/dry-riesling-lakewood-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/lakewood-vineyards/wines/cabernet-franc-lakewood-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/lakewood-vineyards/wines/"
+    ],
+    "lamoreaux-landing-wine-cellars": [
+        "https://newyork.guides.winefolly.com/wineries/lamoreaux-landing-wine-cellars/wines/cabernet-franc/",
+        "https://newyork.guides.winefolly.com/wineries/lamoreaux-landing-wine-cellars/wines/chardonnay/",
+        "https://newyork.guides.winefolly.com/wineries/lamoreaux-landing-wine-cellars/wines/pinot-noir/",
+        "https://newyork.guides.winefolly.com/wineries/lamoreaux-landing-wine-cellars/wines/estate-red-cuvee/",
+        "https://newyork.guides.winefolly.com/wineries/lamoreaux-landing-wine-cellars/wines/gruner-veltliner/",
+        "https://newyork.guides.winefolly.com/wineries/lamoreaux-landing-wine-cellars/wines/dry-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/lamoreaux-landing-wine-cellars/wines/"
+    ],
+    "leidenfrost-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/leidenfrost-vineyards/wines/wine-4-leidenfrost-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/leidenfrost-vineyards/wines/wine-11-leidenfrost-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/leidenfrost-vineyards/wines/wine-12-leidenfrost-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/leidenfrost-vineyards/wines/wine-13-leidenfrost-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/leidenfrost-vineyards/wines/wine-7-leidenfrost-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/leidenfrost-vineyards/wines/wine-1-leidenfrost-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/leidenfrost-vineyards/wines/"
+    ],
+    "lenz-winery": [
+        "https://newyork.guides.winefolly.com/wineries/lenz-winery/wines/estate-selection-merlot/",
+        "https://newyork.guides.winefolly.com/wineries/lenz-winery/wines/cuvee-sparkling-wine/",
+        "https://newyork.guides.winefolly.com/wineries/lenz-winery/wines/"
+    ],
+    "leonard-oakes-estate-winery": [
+        "https://newyork.guides.winefolly.com/wineries/leonard-oakes-estate-winery/wines/skin-fermented-white/",
+        "https://newyork.guides.winefolly.com/wineries/leonard-oakes-estate-winery/wines/"
+    ],
+    "living-roots-wine-co": [
+        "https://newyork.guides.winefolly.com/wineries/living-roots-wine-co/wines/finger-lakes-late-harvest-vidal/",
+        "https://newyork.guides.winefolly.com/wineries/living-roots-wine-co/wines/adelaide-hills-cabernet-tannat/",
+        "https://newyork.guides.winefolly.com/wineries/living-roots-wine-co/wines/finger-lakes-red-rizza/",
+        "https://newyork.guides.winefolly.com/wineries/living-roots-wine-co/wines/finger-lakes-session-rizz/",
+        "https://newyork.guides.winefolly.com/wineries/living-roots-wine-co/wines/wine-0-living-roots/",
+        "https://newyork.guides.winefolly.com/wineries/living-roots-wine-co/wines/wine-1-living-roots/",
+        "https://newyork.guides.winefolly.com/wineries/living-roots-wine-co/wines/"
+    ],
+    "long-cliff-vineyard-winery": [
+        "https://newyork.guides.winefolly.com/wineries/long-cliff-vineyard-winery/wines/sauvignon-blanc-long-cliff-vineyard-winery/",
+        "https://newyork.guides.winefolly.com/wineries/long-cliff-vineyard-winery/wines/dry-riesling-long-cliff-vineyard-winery/",
+        "https://newyork.guides.winefolly.com/wineries/long-cliff-vineyard-winery/wines/"
+    ],
+    "macari-vineyards-winery": [
+        "https://newyork.guides.winefolly.com/wineries/macari-vineyards-winery/wines/wine-2-macari-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/macari-vineyards-winery/wines/wine-3-macari-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/macari-vineyards-winery/wines/wine-4-macari-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/macari-vineyards-winery/wines/wine-5-macari-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/macari-vineyards-winery/wines/wine-6-macari-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/macari-vineyards-winery/wines/wine-7-macari-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/macari-vineyards-winery/wines/"
+    ],
+    "magnanini-farm-winery": [
+        "https://newyork.guides.winefolly.com/wineries/magnanini-farm-winery/wines/rosso-riserva/",
+        "https://newyork.guides.winefolly.com/wineries/magnanini-farm-winery/wines/"
+    ],
+    "magnus-ridge-winery": [
+        "https://newyork.guides.winefolly.com/wineries/magnus-ridge-winery/wines/traminette/",
+        "https://newyork.guides.winefolly.com/wineries/magnus-ridge-winery/wines/"
+    ],
+    "maiden-liberty": [
+        "https://newyork.guides.winefolly.com/wineries/maiden-liberty/wines/north-fork-cabernet-franc/",
+        "https://newyork.guides.winefolly.com/wineries/maiden-liberty/wines/"
+    ],
+    "marjim-manor": [
+        "https://newyork.guides.winefolly.com/wineries/marjim-manor/wines/lady-in-the-window/",
+        "https://newyork.guides.winefolly.com/wineries/marjim-manor/wines/lord-of-the-manor/",
+        "https://newyork.guides.winefolly.com/wineries/marjim-manor/wines/"
+    ],
+    "mazza-chautauqua-cellars": [
+        "https://newyork.guides.winefolly.com/wineries/mazza-chautauqua-cellars/wines/bare-bones-white/",
+        "https://newyork.guides.winefolly.com/wineries/mazza-chautauqua-cellars/wines/bare-bones-moscato/",
+        "https://newyork.guides.winefolly.com/wineries/mazza-chautauqua-cellars/wines/lighthouse-point-rose/",
+        "https://newyork.guides.winefolly.com/wineries/mazza-chautauqua-cellars/wines/niagara-mazza-chautauqua-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/mazza-chautauqua-cellars/wines/vignoles-mazza-chautauqua-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/mazza-chautauqua-cellars/wines/forte-of-cabernet-franc/",
+        "https://newyork.guides.winefolly.com/wineries/mazza-chautauqua-cellars/wines/"
+    ],
+    "mazza-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/mazza-vineyards/wines/wine-0-mazza-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/mazza-vineyards/wines/"
+    ],
+    "mccall-wines": [
+        "https://newyork.guides.winefolly.com/wineries/mccall-wines/wines/wine-0-mccall-wines/",
+        "https://newyork.guides.winefolly.com/wineries/mccall-wines/wines/ben-s-blend/",
+        "https://newyork.guides.winefolly.com/wineries/mccall-wines/wines/"
+    ],
+    "mcgregor-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/mcgregor-vineyard/wines/pinot-noir-mcgregor-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/mcgregor-vineyard/wines/saperavi-reserve/",
+        "https://newyork.guides.winefolly.com/wineries/mcgregor-vineyard/wines/cabernet-franc-mcgregor-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/mcgregor-vineyard/wines/wine-0-mcgregor-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/mcgregor-vineyard/wines/wine-1-mcgregor-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/mcgregor-vineyard/wines/pinot-noir-rose-mcgregor-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/mcgregor-vineyard/wines/"
+    ],
+    "merritt-estate-winery": [
+        "https://newyork.guides.winefolly.com/wineries/merritt-estate-winery/wines/edelweiss/",
+        "https://newyork.guides.winefolly.com/wineries/merritt-estate-winery/wines/xtc/",
+        "https://newyork.guides.winefolly.com/wineries/merritt-estate-winery/wines/riesling-merritt-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/merritt-estate-winery/wines/wine-0-merritt-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/merritt-estate-winery/wines/wine-1-merritt-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/merritt-estate-winery/wines/wine-2-merritt-estate-winery/",
+        "https://newyork.guides.winefolly.com/wineries/merritt-estate-winery/wines/"
+    ],
+    "montezuma-winery": [
+        "https://newyork.guides.winefolly.com/wineries/montezuma-winery/wines/wine-0-montezuma-winery/",
+        "https://newyork.guides.winefolly.com/wineries/montezuma-winery/wines/"
+    ],
+    "new-vines-bed-breakfast": [
+        "https://newyork.guides.winefolly.com/wineries/new-vines-bed-breakfast/wines/wine-0-new-vines-winery/",
+        "https://newyork.guides.winefolly.com/wineries/new-vines-bed-breakfast/wines/wine-2-new-vines-winery/",
+        "https://newyork.guides.winefolly.com/wineries/new-vines-bed-breakfast/wines/wine-5-new-vines-winery/",
+        "https://newyork.guides.winefolly.com/wineries/new-vines-bed-breakfast/wines/wine-8-new-vines-winery/",
+        "https://newyork.guides.winefolly.com/wineries/new-vines-bed-breakfast/wines/wine-6-new-vines-winery/",
+        "https://newyork.guides.winefolly.com/wineries/new-vines-bed-breakfast/wines/wine-4-new-vines-winery/",
+        "https://newyork.guides.winefolly.com/wineries/new-vines-bed-breakfast/wines/"
+    ],
+    "north-cliff-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/north-cliff-vineyards/wines/bourbon-barrel-merlot/",
+        "https://newyork.guides.winefolly.com/wineries/north-cliff-vineyards/wines/cabernet-franc-north-cliff-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/north-cliff-vineyards/wines/cabernet-sauvignon-north-cliff-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/north-cliff-vineyards/wines/petit-verdot-north-cliff-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/north-cliff-vineyards/wines/merlot-2021/",
+        "https://newyork.guides.winefolly.com/wineries/north-cliff-vineyards/wines/"
+    ],
+    "northern-cross-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/northern-cross-vineyard/wines/wine-0-northern-cross-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/northern-cross-vineyard/wines/wine-1-northern-cross-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/northern-cross-vineyard/wines/"
+    ],
+    "osmote": [
+        "https://newyork.guides.winefolly.com/wineries/osmote/wines/wine-0-osmote/",
+        "https://newyork.guides.winefolly.com/wineries/osmote/wines/"
+    ],
+    "palmer-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/palmer-vineyards/wines/old-roots-merlot/",
+        "https://newyork.guides.winefolly.com/wineries/palmer-vineyards/wines/old-roots-reserve/",
+        "https://newyork.guides.winefolly.com/wineries/palmer-vineyards/wines/rose-palmer-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/palmer-vineyards/wines/viognier-palmer-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/palmer-vineyards/wines/old-roots-chardonnay/",
+        "https://newyork.guides.winefolly.com/wineries/palmer-vineyards/wines/wine-0-palmer-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/palmer-vineyards/wines/"
+    ],
+    "paul-brady-wine": [
+        "https://newyork.guides.winefolly.com/wineries/paul-brady-wine/wines/wine-0-paul-brady-wine/",
+        "https://newyork.guides.winefolly.com/wineries/paul-brady-wine/wines/"
+    ],
+    "paumanok-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/paumanok-vineyards/wines/semi-dry-riesling-paumanok-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/paumanok-vineyards/wines/sauvignon-blanc-paumanok-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/paumanok-vineyards/wines/dry-riesling-paumanok-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/paumanok-vineyards/wines/barrel-fermented-chardonnay/",
+        "https://newyork.guides.winefolly.com/wineries/paumanok-vineyards/wines/festival-chardonnay/",
+        "https://newyork.guides.winefolly.com/wineries/paumanok-vineyards/wines/merlot-paumanok-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/paumanok-vineyards/wines/"
+    ],
+    "peconic-bay-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/peconic-bay-vineyards/wines/chardonnay-peconic-bay-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/peconic-bay-vineyards/wines/viognier-2021/",
+        "https://newyork.guides.winefolly.com/wineries/peconic-bay-vineyards/wines/"
+    ],
+    "pellegrini-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/pellegrini-vineyards/wines/rose-pellegrini-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/pellegrini-vineyards/wines/reserve/",
+        "https://newyork.guides.winefolly.com/wineries/pellegrini-vineyards/wines/petit-verdot-pellegrini-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/pellegrini-vineyards/wines/"
+    ],
+    "pindar-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/pindar-vineyards/wines/wine-0-pindar-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/pindar-vineyards/wines/cuvee-rare/",
+        "https://newyork.guides.winefolly.com/wineries/pindar-vineyards/wines/premier-cuvee-brut/",
+        "https://newyork.guides.winefolly.com/wineries/pindar-vineyards/wines/merlot-pindar-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/pindar-vineyards/wines/tannat/",
+        "https://newyork.guides.winefolly.com/wineries/pindar-vineyards/wines/rose-pindar-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/pindar-vineyards/wines/"
+    ],
+    "pleasant-valley-wine": [
+        "https://newyork.guides.winefolly.com/wineries/pleasant-valley-wine/wines/wine-2-pleasant-valley-wine-company/",
+        "https://newyork.guides.winefolly.com/wineries/pleasant-valley-wine/wines/wine-4-pleasant-valley-wine-company/",
+        "https://newyork.guides.winefolly.com/wineries/pleasant-valley-wine/wines/wine-3-pleasant-valley-wine-company/",
+        "https://newyork.guides.winefolly.com/wineries/pleasant-valley-wine/wines/wine-1-pleasant-valley-wine-company/",
+        "https://newyork.guides.winefolly.com/wineries/pleasant-valley-wine/wines/wine-0-pleasant-valley-wine-company/",
+        "https://newyork.guides.winefolly.com/wineries/pleasant-valley-wine/wines/"
+    ],
+    "point-of-the-bluff-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/point-of-the-bluff-vineyards/wines/wine-0-point-of-the-bluff-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/point-of-the-bluff-vineyards/wines/"
+    ],
+    "poplar-ridge-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/poplar-ridge-vineyards/wines/wine-0-bagley-s-poplar-ridge-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/poplar-ridge-vineyards/wines/wine-1-bagley-s-poplar-ridge-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/poplar-ridge-vineyards/wines/wine-2-bagley-s-poplar-ridge-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/poplar-ridge-vineyards/wines/"
+    ],
+    "ports-of-new-york-winery": [
+        "https://newyork.guides.winefolly.com/wineries/ports-of-new-york-winery/wines/tompkins-sparkling/",
+        "https://newyork.guides.winefolly.com/wineries/ports-of-new-york-winery/wines/meleau-red/",
+        "https://newyork.guides.winefolly.com/wineries/ports-of-new-york-winery/wines/meleau-white/",
+        "https://newyork.guides.winefolly.com/wineries/ports-of-new-york-winery/wines/quotidian-white/",
+        "https://newyork.guides.winefolly.com/wineries/ports-of-new-york-winery/wines/quotidian-red/",
+        "https://newyork.guides.winefolly.com/wineries/ports-of-new-york-winery/wines/"
+    ],
+    "prejean": [
+        "https://newyork.guides.winefolly.com/wineries/prejean/wines/wine-0-prejean-winery/",
+        "https://newyork.guides.winefolly.com/wineries/prejean/wines/"
+    ],
+    "ravines-wine-cellars": [
+        "https://newyork.guides.winefolly.com/wineries/ravines-wine-cellars/wines/wine-7-ravines-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/ravines-wine-cellars/wines/wine-1-ravines-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/ravines-wine-cellars/wines/wine-3-ravines-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/ravines-wine-cellars/wines/wine-2-ravines-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/ravines-wine-cellars/wines/wine-4-ravines-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/ravines-wine-cellars/wines/wine-5-ravines-wine-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/ravines-wine-cellars/wines/"
+    ],
+    "red-newt-cellars": [
+        "https://newyork.guides.winefolly.com/wineries/red-newt-cellars/wines/tango-oaks-vineyard-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/red-newt-cellars/wines/kelby-james-russell-gruner-veltliner/",
+        "https://newyork.guides.winefolly.com/wineries/red-newt-cellars/wines/pinot-noir-glacier-ridge-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/red-newt-cellars/wines/merlot-glacier-ridge-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/red-newt-cellars/wines/circle-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/red-newt-cellars/wines/newt-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/red-newt-cellars/wines/"
+    ],
+    "rgny": [
+        "https://newyork.guides.winefolly.com/wineries/rgny/wines/scielo-ny-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/rgny/wines/rgny-white-sparkling/",
+        "https://newyork.guides.winefolly.com/wineries/rgny/wines/rgny-cabernet-franc/",
+        "https://newyork.guides.winefolly.com/wineries/rgny/wines/rainbow-rose/",
+        "https://newyork.guides.winefolly.com/wineries/rgny/wines/rgny-rose-sparkling/",
+        "https://newyork.guides.winefolly.com/wineries/rgny/wines/rgny-sauvignon-blanc-semillon/",
+        "https://newyork.guides.winefolly.com/wineries/rgny/wines/"
+    ],
+    "robibero-family-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/robibero-family-vineyards/wines/tough/",
+        "https://newyork.guides.winefolly.com/wineries/robibero-family-vineyards/wines/estate-cabernet-franc-2018/",
+        "https://newyork.guides.winefolly.com/wineries/robibero-family-vineyards/wines/"
+    ],
+    "rocky-ponds": [
+        "https://newyork.guides.winefolly.com/wineries/rocky-ponds/wines/wine-1-quartz-rock-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/rocky-ponds/wines/wine-0-quartz-rock-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/rocky-ponds/wines/noiret-unoaked/",
+        "https://newyork.guides.winefolly.com/wineries/rocky-ponds/wines/black-currant-wine/",
+        "https://newyork.guides.winefolly.com/wineries/rocky-ponds/wines/"
+    ],
+    "rose-hill-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/rose-hill-vineyards/wines/wine-11-rose-hill-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/rose-hill-vineyards/wines/wine-14-rose-hill-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/rose-hill-vineyards/wines/wine-15-rose-hill-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/rose-hill-vineyards/wines/wine-16-rose-hill-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/rose-hill-vineyards/wines/wine-17-rose-hill-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/rose-hill-vineyards/wines/wine-4-rose-hill-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/rose-hill-vineyards/wines/"
+    ],
+    "sanninos-bella-vita-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/sanninos-bella-vita-vineyard/wines/wine-15-sannino-vineyard-and-bed-breakfast/",
+        "https://newyork.guides.winefolly.com/wineries/sanninos-bella-vita-vineyard/wines/wine-4-sannino-vineyard-and-bed-breakfast/",
+        "https://newyork.guides.winefolly.com/wineries/sanninos-bella-vita-vineyard/wines/wine-5-sannino-vineyard-and-bed-breakfast/",
+        "https://newyork.guides.winefolly.com/wineries/sanninos-bella-vita-vineyard/wines/wine-0-sanninos-bella-vita-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/sanninos-bella-vita-vineyard/wines/wine-2-sannino-vineyard-and-bed-breakfast/",
+        "https://newyork.guides.winefolly.com/wineries/sanninos-bella-vita-vineyard/wines/wine-7-sannino-vineyard-and-bed-breakfast/",
+        "https://newyork.guides.winefolly.com/wineries/sanninos-bella-vita-vineyard/wines/"
+    ],
+    "savor-vineyards-wine": [
+        "https://newyork.guides.winefolly.com/wineries/savor-vineyards-wine/wines/serenity-now/",
+        "https://newyork.guides.winefolly.com/wineries/savor-vineyards-wine/wines/"
+    ],
+    "sheldrake-point-winery": [
+        "https://newyork.guides.winefolly.com/wineries/sheldrake-point-winery/wines/wine-14-sheldrake-point-winery/",
+        "https://newyork.guides.winefolly.com/wineries/sheldrake-point-winery/wines/wine-4-sheldrake-point-winery/",
+        "https://newyork.guides.winefolly.com/wineries/sheldrake-point-winery/wines/wine-6-sheldrake-point-winery/",
+        "https://newyork.guides.winefolly.com/wineries/sheldrake-point-winery/wines/wine-9-sheldrake-point-winery/",
+        "https://newyork.guides.winefolly.com/wineries/sheldrake-point-winery/wines/wine-10-sheldrake-point-winery/",
+        "https://newyork.guides.winefolly.com/wineries/sheldrake-point-winery/wines/beta-series-acid-head-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/sheldrake-point-winery/wines/"
+    ],
+    "silver-thread-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/silver-thread-vineyard/wines/semi-dry-riesling-silver-thread-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/silver-thread-vineyard/wines/good-earth-white/",
+        "https://newyork.guides.winefolly.com/wineries/silver-thread-vineyard/wines/riesling-estate/",
+        "https://newyork.guides.winefolly.com/wineries/silver-thread-vineyard/wines/blackbird-red/",
+        "https://newyork.guides.winefolly.com/wineries/silver-thread-vineyard/wines/cabernet-franc-silver-thread-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/silver-thread-vineyard/wines/wine-0-silver-thread-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/silver-thread-vineyard/wines/"
+    ],
+    "six-eighty-cellars": [
+        "https://newyork.guides.winefolly.com/wineries/six-eighty-cellars/wines/pinot-noir-six-eighty-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/six-eighty-cellars/wines/pinot-pinot/",
+        "https://newyork.guides.winefolly.com/wineries/six-eighty-cellars/wines/cabernet-franc-carbonic/",
+        "https://newyork.guides.winefolly.com/wineries/six-eighty-cellars/wines/cabernet-franc-appassimento/",
+        "https://newyork.guides.winefolly.com/wineries/six-eighty-cellars/wines/pinot-noir-sandstone/",
+        "https://newyork.guides.winefolly.com/wineries/six-eighty-cellars/wines/pinot-gris-ramato-concrete-diamond/",
+        "https://newyork.guides.winefolly.com/wineries/six-eighty-cellars/wines/"
+    ],
+    "soc-agr-palmeri": [
+        "https://newyork.guides.winefolly.com/wineries/soc-agr-palmeri/wines/wine-0-raphael/",
+        "https://newyork.guides.winefolly.com/wineries/soc-agr-palmeri/wines/"
+    ],
+    "south-shore-wine-company": [
+        "https://newyork.guides.winefolly.com/wineries/south-shore-wine-company/wines/the-perfect-rose/",
+        "https://newyork.guides.winefolly.com/wineries/south-shore-wine-company/wines/sparkling-chardonnay-south-shore-wine-company/",
+        "https://newyork.guides.winefolly.com/wineries/south-shore-wine-company/wines/wine-0-south-shore-wine-company/",
+        "https://newyork.guides.winefolly.com/wineries/south-shore-wine-company/wines/the-perfect-red/",
+        "https://newyork.guides.winefolly.com/wineries/south-shore-wine-company/wines/the-perfect-blanc/",
+        "https://newyork.guides.winefolly.com/wineries/south-shore-wine-company/wines/pet-nat-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/south-shore-wine-company/wines/"
+    ],
+    "sparkling-pointe": [
+        "https://newyork.guides.winefolly.com/wineries/sparkling-pointe/wines/wine-5-sparkling-pointe/",
+        "https://newyork.guides.winefolly.com/wineries/sparkling-pointe/wines/wine-3-sparkling-pointe/",
+        "https://newyork.guides.winefolly.com/wineries/sparkling-pointe/wines/wine-1-sparkling-pointe/",
+        "https://newyork.guides.winefolly.com/wineries/sparkling-pointe/wines/wine-7-sparkling-pointe/",
+        "https://newyork.guides.winefolly.com/wineries/sparkling-pointe/wines/wine-9-sparkling-pointe/",
+        "https://newyork.guides.winefolly.com/wineries/sparkling-pointe/wines/blanc-de-blancs-sparkling-pointe/",
+        "https://newyork.guides.winefolly.com/wineries/sparkling-pointe/wines/"
+    ],
+    "stoutridge-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/stoutridge-vineyard/wines/wine-1-stoutridge-distillery-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/stoutridge-vineyard/wines/wine-2-stoutridge-distillery-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/stoutridge-vineyard/wines/ridge-rose-de-chaunac-blend/",
+        "https://newyork.guides.winefolly.com/wineries/stoutridge-vineyard/wines/wine-4-stoutridge-distillery-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/stoutridge-vineyard/wines/wine-5-stoutridge-distillery-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/stoutridge-vineyard/wines/wine-6-stoutridge-distillery-and-winery/",
+        "https://newyork.guides.winefolly.com/wineries/stoutridge-vineyard/wines/"
+    ],
+    "suhru-wines": [
+        "https://newyork.guides.winefolly.com/wineries/suhru-wines/wines/lieb-vineyards-estate-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/suhru-wines/wines/sauvignon-blanc-suhru-wines/",
+        "https://newyork.guides.winefolly.com/wineries/suhru-wines/wines/wine-8-suhru-wines/",
+        "https://newyork.guides.winefolly.com/wineries/suhru-wines/wines/wine-7-suhru-wines/",
+        "https://newyork.guides.winefolly.com/wineries/suhru-wines/wines/shiraz-suhru-wines/",
+        "https://newyork.guides.winefolly.com/wineries/suhru-wines/wines/ember/",
+        "https://newyork.guides.winefolly.com/wineries/suhru-wines/wines/"
+    ],
+    "thorpe-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/thorpe-vineyard/wines/dry-riesling-thorpe-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/thorpe-vineyard/wines/"
+    ],
+    "three-brothers-wineries-estates": [
+        "https://newyork.guides.winefolly.com/wineries/three-brothers-wineries-estates/wines/wine-3-three-brothers-wineries-estates/",
+        "https://newyork.guides.winefolly.com/wineries/three-brothers-wineries-estates/wines/zero-degree-of-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/three-brothers-wineries-estates/wines/second-degree-of-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/three-brothers-wineries-estates/wines/third-degree-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/three-brothers-wineries-estates/wines/bravey-rose/",
+        "https://newyork.guides.winefolly.com/wineries/three-brothers-wineries-estates/wines/wine-4-three-brothers-wineries-estates/",
+        "https://newyork.guides.winefolly.com/wineries/three-brothers-wineries-estates/wines/"
+    ],
+    "toast-winery": [
+        "https://newyork.guides.winefolly.com/wineries/toast-winery/wines/wine-0-toast-winery/",
+        "https://newyork.guides.winefolly.com/wineries/toast-winery/wines/"
+    ],
+    "torrey-ridge-winery": [
+        "https://newyork.guides.winefolly.com/wineries/torrey-ridge-winery/wines/wine-0-torrey-ridge-winery/",
+        "https://newyork.guides.winefolly.com/wineries/torrey-ridge-winery/wines/"
+    ],
+    "trestle-31": [
+        "https://newyork.guides.winefolly.com/wineries/trestle-31/wines/sauvignon-blanc-poppy-and-rose-wine-co/",
+        "https://newyork.guides.winefolly.com/wineries/trestle-31/wines/chardonnay-poppy-and-rose-wine-co/",
+        "https://newyork.guides.winefolly.com/wineries/trestle-31/wines/rose-poppy-and-rose-wine-co/",
+        "https://newyork.guides.winefolly.com/wineries/trestle-31/wines/"
+    ],
+    "trestle-thirty-one": [
+        "https://newyork.guides.winefolly.com/wineries/trestle-thirty-one/wines/riesling-trestle-thirty-one/",
+        "https://newyork.guides.winefolly.com/wineries/trestle-thirty-one/wines/"
+    ],
+    "ventosa-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/ventosa-vineyards/wines/rosato/",
+        "https://newyork.guides.winefolly.com/wineries/ventosa-vineyards/wines/vino-fizzante-sparkling-white-wine/",
+        "https://newyork.guides.winefolly.com/wineries/ventosa-vineyards/wines/tocai-friulano-ventosa-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/ventosa-vineyards/wines/dry-riesling-ventosa-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/ventosa-vineyards/wines/vino-bianco/",
+        "https://newyork.guides.winefolly.com/wineries/ventosa-vineyards/wines/vino-rosso/",
+        "https://newyork.guides.winefolly.com/wineries/ventosa-vineyards/wines/"
+    ],
+    "vesco-ridge-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/vesco-ridge-vineyards/wines/pinot-grigio-vesco-ridge-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/vesco-ridge-vineyards/wines/"
+    ],
+    "victorianbourg-wine-estate": [
+        "https://newyork.guides.winefolly.com/wineries/victorianbourg-wine-estate/wines/wine-0-victorianbourg-wine-estate/",
+        "https://newyork.guides.winefolly.com/wineries/victorianbourg-wine-estate/wines/wine-1-victorianbourg-wine-estate/",
+        "https://newyork.guides.winefolly.com/wineries/victorianbourg-wine-estate/wines/"
+    ],
+    "victory-view-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/victory-view-vineyard/wines/wine-0-victory-view-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/victory-view-vineyard/wines/wine-1-victory-view-vineyard/",
+        "https://newyork.guides.winefolly.com/wineries/victory-view-vineyard/wines/"
+    ],
+    "wagner-vineyards-estate-winery": [
+        "https://newyork.guides.winefolly.com/wineries/wagner-vineyards-estate-winery/wines/alta-b-blush/",
+        "https://newyork.guides.winefolly.com/wineries/wagner-vineyards-estate-winery/wines/melody/",
+        "https://newyork.guides.winefolly.com/wineries/wagner-vineyards-estate-winery/wines/cayuga-white/",
+        "https://newyork.guides.winefolly.com/wineries/wagner-vineyards-estate-winery/wines/seneca-white-1-5l/",
+        "https://newyork.guides.winefolly.com/wineries/wagner-vineyards-estate-winery/wines/seneca-blush-1-5l/",
+        "https://newyork.guides.winefolly.com/wineries/wagner-vineyards-estate-winery/wines/seneca-red-1-5l/",
+        "https://newyork.guides.winefolly.com/wineries/wagner-vineyards-estate-winery/wines/"
+    ],
+    "weis-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/weis-vineyards/wines/gruner-veltliner-weis-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/weis-vineyards/wines/wine-0-weis-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/weis-vineyards/wines/"
+    ],
+    "whitecliff-vineyard-winery": [
+        "https://newyork.guides.winefolly.com/wineries/whitecliff-vineyard-winery/wines/wine-0-whitecliff-vineyard-winery/",
+        "https://newyork.guides.winefolly.com/wineries/whitecliff-vineyard-winery/wines/"
+    ],
+    "wolffer-estate-vineyard": [
+        "https://newyork.guides.winefolly.com/wineries/wolffer-estate-vineyard/wines/christians-s-cuvee/",
+        "https://newyork.guides.winefolly.com/wineries/wolffer-estate-vineyard/wines/the-grapes-of-roth-dry-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/wolffer-estate-vineyard/wines/summer-in-a-bottle-rose/",
+        "https://newyork.guides.winefolly.com/wineries/wolffer-estate-vineyard/wines/"
+    ],
+    "woodbury-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/woodbury-vineyards/wines/traminette-woodbury-vineyards/",
+        "https://newyork.guides.winefolly.com/wineries/woodbury-vineyards/wines/"
+    ],
+    "yates-cellars": [
+        "https://newyork.guides.winefolly.com/wineries/yates-cellars/wines/wine-0-yates-cellars/",
+        "https://newyork.guides.winefolly.com/wineries/yates-cellars/wines/"
+    ],
+    "yellow-barn-winery": [
+        "https://newyork.guides.winefolly.com/wineries/yellow-barn-winery/wines/wine-0-yellow-barn-winery/",
+        "https://newyork.guides.winefolly.com/wineries/yellow-barn-winery/wines/"
+    ],
+    "young-sommer-winery": [
+        "https://newyork.guides.winefolly.com/wineries/young-sommer-winery/wines/wine-0-young-sommer-winery/",
+        "https://newyork.guides.winefolly.com/wineries/young-sommer-winery/wines/"
+    ],
+    "zugibe-vineyards": [
+        "https://newyork.guides.winefolly.com/wineries/zugibe-vineyards/wines/pinot-noir/",
+        "https://newyork.guides.winefolly.com/wineries/zugibe-vineyards/wines/phoenician-red/",
+        "https://newyork.guides.winefolly.com/wineries/zugibe-vineyards/wines/semi-dry-riesling/",
+        "https://newyork.guides.winefolly.com/wineries/zugibe-vineyards/wines/cabernet-sauvignon/",
+        "https://newyork.guides.winefolly.com/wineries/zugibe-vineyards/wines/4-fred-s-red/",
+        "https://newyork.guides.winefolly.com/wineries/zugibe-vineyards/wines/gewurztraminer/",
+        "https://newyork.guides.winefolly.com/wineries/zugibe-vineyards/wines/"
+    ]
+}
